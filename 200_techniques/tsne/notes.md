@@ -6,7 +6,7 @@ t-Distributed Stochastic Neighbor Embedding
 
 t-SNE is a NON-LINEAR dimensionality reduction technique designed specifically for visualization.
 
-It works by:
+## It works by
 
 1. Measuring SIMILARITY between points in high-D space (using a Gaussian probability distribution)
 
