@@ -70,7 +70,7 @@ trainloader = torch.utils.data.DataLoader(trainset, batch_size=64, shuffle=True)
 
 # Training Loop
 
-num_epochs = 50
+num_epochs = 500
 for epoch in range(num_epochs):
     total_loss = 0
     for images, _ in trainloader:
