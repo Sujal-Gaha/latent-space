@@ -19,6 +19,9 @@ class EmbeddingSpace:
         groups: list[str],
     ):
         if n_dim == 2:
+            for coord in coords:
+                if len(coord) != 2:
+                    raise ValueError(f"Coord is not 2D. Got: {coord}")
             self._plot_2d(texts, coords, colors, groups)
         elif n_dim == 3:
             self._plot_3d(texts, coords, colors, groups)
@@ -138,7 +141,7 @@ class EmbeddingSpace:
 
         plt.tight_layout(rect=(0.0, 0.0, 1.0, 0.95))
         plt.savefig(
-            "./600_outputs/tsne/embedding_space_tsne_2d.png",
+            "./outputs/tsne/embedding_space_tsne_2d.png",
             dpi=150,
             bbox_inches="tight",
             facecolor="#FAFAFA",
@@ -260,7 +263,7 @@ class EmbeddingSpace:
         plt.tight_layout(rect=(0.0, 0.0, 1.0, 0.95))
 
         plt.savefig(
-            "./600_outputs/tsne/embedding_space_tsne_3d.png",
+            "./outputs/tsne/embedding_space_tsne_3d.png",
             dpi=150,
             bbox_inches="tight",
             facecolor="#FAFAFA",
