@@ -1,6 +1,7 @@
 import os
 import sys
 import requests
+import random
 
 import numpy as np
 
@@ -15,6 +16,33 @@ load_dotenv()
 
 OLLAMA_MODEl = os.getenv("OLLAMA_MODEL")
 OLLAMA_URL = os.getenv("OLLAMA_URL") or "http://localhost:11434"
+
+
+def get_random_colors(n: int = 2) -> list[str]:
+    """
+    Args:
+        n is the total number of random colors to generate
+
+    Returns:
+        list of random colors in hex format
+    """
+
+    BLUE = "#1F77B4"
+    ORANGE = "#FF7F0E"
+    GREEN = "#2CA02C"
+    RED = "#D62728"
+    PURPLE = "#9467BD"
+    BROWN = "#8C564B"
+    PINK = "#E377C2"
+    GRAY = "#7F7F7F"
+    YELLOW = "#BCBD22"
+    CYAN = "#17BECF"
+
+    COLORS = [BLUE, ORANGE, GREEN, RED, PURPLE, BROWN, PINK, GRAY, YELLOW, CYAN]
+
+    random_colors = [random.choice(COLORS) for _ in range(n)]
+
+    return random_colors
 
 
 # 1. Get embedding from Ollama
@@ -38,7 +66,7 @@ def get_embedding(text: str) -> np.ndarray:
         sys.exit(1)
 
 
-def collect_all_embeddings(WORDS):
+def collect_all_embeddings(texts):
     """
     Loop through all texts, get their embeddings, and return everything as parallel lists.
     """
@@ -48,21 +76,76 @@ def collect_all_embeddings(WORDS):
     all_colors = []
     all_groups = []
 
-    total = sum(len(g["items"]) for g in WORDS.values())
+    total = sum(len(g["items"]) for g in texts.values())
 
     print(f"Fetching embeddings from Ollama ({OLLAMA_MODEl})")
     print(f"{total} words\n")
 
     count = 0
-    for group_name, group_data in WORDS.items():
-        for word in group_data["items"]:
+    for group_name, group_data in texts.items():
+        for text in group_data["items"]:
             count += 1
-            print(f"[{count:3d}/{total}] Embedding: '{word}'")
-            vec = get_embedding(word)
-            all_texts.append(word)
+            print(f"[{count:3d}/{total}] Embedding: '{text}'")
+            vec = get_embedding(text)
+            all_texts.append(text)
             all_vectors.append(vec)
             all_colors.append(group_data["color"])
             all_groups.append(group_name)
+
+    return all_texts, np.array(all_vectors), all_colors, all_groups
+
+
+def collect_all_embeddings_V2(texts, default_group="texts"):
+    """
+    For both custom dataset and hugginface datasets
+    """
+
+    all_texts = []
+    all_vectors = []
+    all_colors = []
+    all_groups = []
+
+    # CASE 1: grouped dictionary dataset
+    if isinstance(texts, dict):
+        total = sum(len(g["items"]) for g in texts.values())
+
+        print(f"Fetching embeddings from Ollama ({OLLAMA_MODEl})")
+        print(f"{total} texts\n")
+
+        count = 0
+        for group_name, group_data in texts.items():
+            for text in group_data["items"]:
+                count += 1
+                print(f"[{count:3d}/{total}] Emedding: '{text}'")
+
+                vec = get_embedding(text)
+
+                all_texts.append(text)
+                all_vectors.append(vec)
+                all_colors.append(group_data["color"])
+                all_groups.append(group_name)
+
+    # CASE 2: simple list dataset
+    elif isinstance(texts, list):
+        total = len(texts)
+
+        print(f"Fetching embeddings from Ollama {OLLAMA_MODEl}")
+        print(f"{total} texts\n")
+
+        random_colors = get_random_colors(n=5)
+
+        for i, text in enumerate(texts, 1):
+            print(f"[{i:3d}/{total}] Embedding: '{text[:150]}'")
+
+            vec = get_embedding(text)
+
+            all_texts.append(text)
+            all_vectors.append(vec)
+            all_colors.append(random.choice(random_colors))
+            all_groups.append(default_group)
+
+    else:
+        raise ValueError("Unsupported dataset format")
 
     return all_texts, np.array(all_vectors), all_colors, all_groups
 

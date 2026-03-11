@@ -1,4 +1,8 @@
+import os
+import json
+
 from datetime import datetime
+
 from typing import TypedDict
 
 from matplotlib.axes import Axes
@@ -21,14 +25,25 @@ class EmbeddingPlotterConfig(TypedDict):
     legend_edge_color: str
     output_dir: str
     dpi: int
+    session_id: str
 
 
 class EmbeddingPlotter:
-    def __init__(self) -> None:
-        self.config = self._get_config()
-        print("EmbeddingPlotter initialized")
+    def __init__(
+        self, session_id: str = datetime.now().strftime("%Y%m%d_%H%M%S")
+    ) -> None:
+        self.config = self._get_config(session_id)
 
-    def _get_config(self) -> EmbeddingPlotterConfig:
+        self.session_dir = os.path.join(
+            self.config["output_dir"], self.config["session_id"]
+        )
+
+        os.makedirs(self.session_dir, exist_ok=True)
+
+        print("EmbeddingPlotter initialized")
+        print(f"Session folder: {self.session_dir}")
+
+    def _get_config(self, session_id: str) -> EmbeddingPlotterConfig:
         return {
             "background_color": "#FAFAFA",
             "text_color": "#2C3E50",
@@ -38,6 +53,7 @@ class EmbeddingPlotter:
             "legend_edge_color": "#DDDDDD",
             "output_dir": "./outputs/tsne/",
             "dpi": 150,
+            "session_id": session_id,
         }
 
     def plot(
@@ -50,6 +66,9 @@ class EmbeddingPlotter:
     ) -> None:
         if n_dim not in (2, 3):
             raise ValueError(f"n_dim must be 2 or 3. Got: {n_dim}")
+
+        self._save_json(texts, coords, colors, groups, n_dim)
+
         if n_dim == 2:
             self._plot_2d(texts, coords, colors, groups)
         else:
@@ -209,8 +228,8 @@ class EmbeddingPlotter:
         coords: ndarray,
         colors: list[str],
     ) -> None:
-        for text, color, coord in zip(texts, colors, coords):
-            label = text if len(text) <= 20 else text[:18] + "..."
+        for idx, (text, color, coord) in enumerate(zip(texts, colors, coords)):
+            label = text if len(text) <= 20 else str(idx + 1)
 
             x, y = coord
 
@@ -237,8 +256,8 @@ class EmbeddingPlotter:
         coords: ndarray,
         colors: list[str],
     ) -> None:
-        for text, color, coord in zip(texts, colors, coords):
-            label = text if len(text) <= 20 else text[:18] + "..."
+        for idx, (text, color, coord) in enumerate(zip(texts, colors, coords)):
+            label = text if len(text) <= 20 else str(idx + 1)
 
             x, y, z = coord
 
@@ -283,9 +302,10 @@ class EmbeddingPlotter:
         )
 
     def _save_and_show(self, name: str) -> None:
-        date_time = datetime.now().strftime("%Y%m%d_%H%M%S")
-
-        path = f"{self.config["output_dir"]}{name}_{date_time}.png"
+        path = os.path.join(
+            self.session_dir,
+            f"{name}.png",
+        )
 
         plt.tight_layout(rect=(0.0, 0.0, 1.0, 0.95))
 
@@ -299,3 +319,37 @@ class EmbeddingPlotter:
         print(f"Plot saved as {path}")
 
         plt.show()
+
+    def _save_json(
+        self,
+        texts: list[str],
+        coords: ndarray,
+        colors: list[str],
+        groups: list[str],
+        dim: int,
+    ):
+        data = {
+            "session_id": self.config["session_id"],
+            "timestamp": datetime.now().isoformat(),
+            "dimension": dim,
+            "total_items": len(texts),
+            "items": [
+                {
+                    "id": f"{idx + 1}-ID",
+                    "text": text,
+                    "coord": coord.tolist(),
+                    "color": color,
+                    "group": group,
+                }
+                for idx, (text, coord, color, group) in enumerate(
+                    zip(texts, coords, colors, groups)
+                )
+            ],
+        }
+
+        path = os.path.join(self.session_dir, "embeddings.json")
+
+        with open(path, "w", encoding="utf-8") as f:
+            json.dump(data, f, indent=2)
+
+        print(f"JSON saved as {path}")
