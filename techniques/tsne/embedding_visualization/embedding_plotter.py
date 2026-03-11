@@ -229,7 +229,14 @@ class EmbeddingPlotter:
         colors: list[str],
     ) -> None:
         for idx, (text, color, coord) in enumerate(zip(texts, colors, coords)):
-            label = text if len(text) <= 20 else str(idx + 1)
+            # label = text if len(text) <= 20 else str(idx + 1)
+            # label = str(idx + 1)
+
+            label = ""
+            if len(texts) >= 200:
+                label = str(idx + 1)
+            else:
+                label = text if len(text) <= 20 else text[:18] + "..."
 
             x, y = coord
 
@@ -257,7 +264,12 @@ class EmbeddingPlotter:
         colors: list[str],
     ) -> None:
         for idx, (text, color, coord) in enumerate(zip(texts, colors, coords)):
-            label = text if len(text) <= 20 else str(idx + 1)
+            label = ""
+
+            if len(texts) > 100:
+                label = str(idx + 1)
+            else:
+                label = text if len(text) <= 20 else text[:18] + "..."
 
             x, y, z = coord
 
