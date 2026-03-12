@@ -160,9 +160,9 @@ class EmbeddingPlotter:
         for ax in axes:
             ax.set_facecolor("#FFFFFF")
 
-            ax.set_xlabel("t-SNE Distribution 1", color=self.config["text_color"])
-            ax.set_ylabel("t-SNE Distribution 2", color=self.config["text_color"])
-            ax.set_zlabel("t-SNE Distribution 1", color=self.config["text_color"])
+            ax.set_xlabel("t-SNE Dimension 1", color=self.config["text_color"])
+            ax.set_ylabel("t-SNE Dimension 2", color=self.config["text_color"])
+            ax.set_zlabel("t-SNE Dimension 3", color=self.config["text_color"])
 
             ax.tick_params(colors=self.config["tick_color"])
 
@@ -229,11 +229,8 @@ class EmbeddingPlotter:
         colors: list[str],
     ) -> None:
         for idx, (text, color, coord) in enumerate(zip(texts, colors, coords)):
-            # label = text if len(text) <= 20 else str(idx + 1)
-            # label = str(idx + 1)
-
             label = ""
-            if len(texts) >= 200:
+            if len(texts) > 100:
                 label = str(idx + 1)
             else:
                 label = text if len(text) <= 20 else text[:18] + "..."
@@ -359,7 +356,7 @@ class EmbeddingPlotter:
             ],
         }
 
-        path = os.path.join(self.session_dir, "embeddings.json")
+        path = os.path.join(self.session_dir, f"embeddings_{dim}.json")
 
         with open(path, "w", encoding="utf-8") as f:
             json.dump(data, f, indent=2)

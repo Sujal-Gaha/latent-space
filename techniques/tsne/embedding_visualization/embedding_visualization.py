@@ -159,7 +159,7 @@ def reduce_with_tsne(vectors: np.ndarray, n_components: int = 2) -> np.ndarray:
 
     tsne = TSNE(
         n_components=n_components,
-        perplexity=min(10, len(vectors) // 3),
+        perplexity=min(10, len(vectors) // 4),
         n_iter_without_progress=2000,
         learning_rate="auto",
         init="pca",
