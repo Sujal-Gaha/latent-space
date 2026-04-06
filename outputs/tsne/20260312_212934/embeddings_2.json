@@ -1,0 +1,2008 @@
+{
+  "session_id": "20260312_212934",
+  "timestamp": "2026-03-12T21:30:51.028004",
+  "dimension": 2,
+  "total_items": 200,
+  "items": [
+    {
+      "id": "1-ID",
+      "text": "attorney",
+      "coord": [
+        15.596582412719727,
+        27.690568923950195
+      ],
+      "color": "#800000",
+      "group": "Law"
+    },
+    {
+      "id": "2-ID",
+      "text": "lawyer",
+      "coord": [
+        14.867627143859863,
+        26.910932540893555
+      ],
+      "color": "#800000",
+      "group": "Law"
+    },
+    {
+      "id": "3-ID",
+      "text": "judge",
+      "coord": [
+        15.464810371398926,
+        33.99337387084961
+      ],
+      "color": "#800000",
+      "group": "Law"
+    },
+    {
+      "id": "4-ID",
+      "text": "jury",
+      "coord": [
+        13.378878593444824,
+        34.2143440246582
+      ],
+      "color": "#800000",
+      "group": "Law"
+    },
+    {
+      "id": "5-ID",
+      "text": "court",
+      "coord": [
+        15.6021089553833,
+        32.34093475341797
+      ],
+      "color": "#800000",
+      "group": "Law"
+    },
+    {
+      "id": "6-ID",
+      "text": "trial",
+      "coord": [
+        11.707365036010742,
+        32.68810272216797
+      ],
+      "color": "#800000",
+      "group": "Law"
+    },
+    {
+      "id": "7-ID",
+      "text": "hearing",
+      "coord": [
+        6.3505778312683105,
+        36.93095397949219
+      ],
+      "color": "#800000",
+      "group": "Law"
+    },
+    {
+      "id": "8-ID",
+      "text": "appeal",
+      "coord": [
+        12.26196002960205,
+        38.12388610839844
+      ],
+      "color": "#800000",
+      "group": "Law"
+    },
+    {
+      "id": "9-ID",
+      "text": "verdict",
+      "coord": [
+        13.272705078125,
+        35.678062438964844
+      ],
+      "color": "#800000",
+      "group": "Law"
+    },
+    {
+      "id": "10-ID",
+      "text": "sentence",
+      "coord": [
+        -3.990112781524658,
+        29.580062866210938
+      ],
+      "color": "#800000",
+      "group": "Law"
+    },
+    {
+      "id": "11-ID",
+      "text": "plea",
+      "coord": [
+        11.854342460632324,
+        39.27683639526367
+      ],
+      "color": "#800000",
+      "group": "Law"
+    },
+    {
+      "id": "12-ID",
+      "text": "evidence",
+      "coord": [
+        7.484230041503906,
+        32.571842193603516
+      ],
+      "color": "#800000",
+      "group": "Law"
+    },
+    {
+      "id": "13-ID",
+      "text": "testimony",
+      "coord": [
+        8.157620429992676,
+        34.24620819091797
+      ],
+      "color": "#800000",
+      "group": "Law"
+    },
+    {
+      "id": "14-ID",
+      "text": "witness",
+      "coord": [
+        7.5809431076049805,
+        35.147979736328125
+      ],
+      "color": "#800000",
+      "group": "Law"
+    },
+    {
+      "id": "15-ID",
+      "text": "expert",
+      "coord": [
+        20.01262855529785,
+        24.761554718017578
+      ],
+      "color": "#800000",
+      "group": "Law"
+    },
+    {
+      "id": "16-ID",
+      "text": "plaintiff",
+      "coord": [
+        12.825231552124023,
+        30.288299560546875
+      ],
+      "color": "#800000",
+      "group": "Law"
+    },
+    {
+      "id": "17-ID",
+      "text": "defendant",
+      "coord": [
+        13.776625633239746,
+        31.410362243652344
+      ],
+      "color": "#800000",
+      "group": "Law"
+    },
+    {
+      "id": "18-ID",
+      "text": "prosecutor",
+      "coord": [
+        16.08394432067871,
+        30.046485900878906
+      ],
+      "color": "#800000",
+      "group": "Law"
+    },
+    {
+      "id": "19-ID",
+      "text": "defense",
+      "coord": [
+        -0.006632843054831028,
+        8.749931335449219
+      ],
+      "color": "#800000",
+      "group": "Law"
+    },
+    {
+      "id": "20-ID",
+      "text": "litigation",
+      "coord": [
+        12.784257888793945,
+        28.756134033203125
+      ],
+      "color": "#800000",
+      "group": "Law"
+    },
+    {
+      "id": "21-ID",
+      "text": "settlement",
+      "coord": [
+        -15.693907737731934,
+        -18.814373016357422
+      ],
+      "color": "#800000",
+      "group": "Law"
+    },
+    {
+      "id": "22-ID",
+      "text": "contract",
+      "coord": [
+        13.589509963989258,
+        23.952682495117188
+      ],
+      "color": "#800000",
+      "group": "Law"
+    },
+    {
+      "id": "23-ID",
+      "text": "tort",
+      "coord": [
+        10.384422302246094,
+        29.077701568603516
+      ],
+      "color": "#800000",
+      "group": "Law"
+    },
+    {
+      "id": "24-ID",
+      "text": "crime",
+      "coord": [
+        20.409854888916016,
+        31.590007781982422
+      ],
+      "color": "#800000",
+      "group": "Law"
+    },
+    {
+      "id": "25-ID",
+      "text": "criminal",
+      "coord": [
+        19.4034366607666,
+        31.466045379638672
+      ],
+      "color": "#800000",
+      "group": "Law"
+    },
+    {
+      "id": "26-ID",
+      "text": "guitar",
+      "coord": [
+        -7.941884517669678,
+        39.466304779052734
+      ],
+      "color": "#9B59B6",
+      "group": "Music"
+    },
+    {
+      "id": "27-ID",
+      "text": "piano",
+      "coord": [
+        -6.182161331176758,
+        44.35689163208008
+      ],
+      "color": "#9B59B6",
+      "group": "Music"
+    },
+    {
+      "id": "28-ID",
+      "text": "violin",
+      "coord": [
+        -12.01103401184082,
+        41.48366165161133
+      ],
+      "color": "#9B59B6",
+      "group": "Music"
+    },
+    {
+      "id": "29-ID",
+      "text": "drums",
+      "coord": [
+        -9.852683067321777,
+        35.70751953125
+      ],
+      "color": "#9B59B6",
+      "group": "Music"
+    },
+    {
+      "id": "30-ID",
+      "text": "flute",
+      "coord": [
+        -12.897723197937012,
+        44.0599250793457
+      ],
+      "color": "#9B59B6",
+      "group": "Music"
+    },
+    {
+      "id": "31-ID",
+      "text": "symphony",
+      "coord": [
+        -16.048219680786133,
+        38.57682800292969
+      ],
+      "color": "#9B59B6",
+      "group": "Music"
+    },
+    {
+      "id": "32-ID",
+      "text": "melody",
+      "coord": [
+        -10.130359649658203,
+        32.24726104736328
+      ],
+      "color": "#9B59B6",
+      "group": "Music"
+    },
+    {
+      "id": "33-ID",
+      "text": "rhythm",
+      "coord": [
+        -10.459020614624023,
+        34.16925811767578
+      ],
+      "color": "#9B59B6",
+      "group": "Music"
+    },
+    {
+      "id": "34-ID",
+      "text": "orchestra",
+      "coord": [
+        -16.96500015258789,
+        38.9599723815918
+      ],
+      "color": "#9B59B6",
+      "group": "Music"
+    },
+    {
+      "id": "35-ID",
+      "text": "concert",
+      "coord": [
+        -15.996038436889648,
+        36.056949615478516
+      ],
+      "color": "#9B59B6",
+      "group": "Music"
+    },
+    {
+      "id": "36-ID",
+      "text": "bass",
+      "coord": [
+        -7.890419006347656,
+        36.296043395996094
+      ],
+      "color": "#9B59B6",
+      "group": "Music"
+    },
+    {
+      "id": "37-ID",
+      "text": "trumpet",
+      "coord": [
+        -16.34461212158203,
+        44.51240921020508
+      ],
+      "color": "#9B59B6",
+      "group": "Music"
+    },
+    {
+      "id": "38-ID",
+      "text": "saxophone",
+      "coord": [
+        -14.390045166015625,
+        44.816043853759766
+      ],
+      "color": "#9B59B6",
+      "group": "Music"
+    },
+    {
+      "id": "39-ID",
+      "text": "harp",
+      "coord": [
+        -10.16714096069336,
+        41.982112884521484
+      ],
+      "color": "#9B59B6",
+      "group": "Music"
+    },
+    {
+      "id": "40-ID",
+      "text": "clarinet",
+      "coord": [
+        -14.101066589355469,
+        43.29182434082031
+      ],
+      "color": "#9B59B6",
+      "group": "Music"
+    },
+    {
+      "id": "41-ID",
+      "text": "opera",
+      "coord": [
+        -18.4118709564209,
+        39.85804748535156
+      ],
+      "color": "#9B59B6",
+      "group": "Music"
+    },
+    {
+      "id": "42-ID",
+      "text": "harmony",
+      "coord": [
+        -10.423212051391602,
+        30.165864944458008
+      ],
+      "color": "#9B59B6",
+      "group": "Music"
+    },
+    {
+      "id": "43-ID",
+      "text": "tempo",
+      "coord": [
+        -11.748124122619629,
+        34.302249908447266
+      ],
+      "color": "#9B59B6",
+      "group": "Music"
+    },
+    {
+      "id": "44-ID",
+      "text": "chorus",
+      "coord": [
+        -7.780397891998291,
+        31.081575393676758
+      ],
+      "color": "#9B59B6",
+      "group": "Music"
+    },
+    {
+      "id": "45-ID",
+      "text": "verse",
+      "coord": [
+        -5.241687297821045,
+        30.12200164794922
+      ],
+      "color": "#9B59B6",
+      "group": "Music"
+    },
+    {
+      "id": "46-ID",
+      "text": "acoustic",
+      "coord": [
+        -7.436460971832275,
+        40.3621826171875
+      ],
+      "color": "#9B59B6",
+      "group": "Music"
+    },
+    {
+      "id": "47-ID",
+      "text": "electric",
+      "coord": [
+        -3.9980971813201904,
+        37.23064422607422
+      ],
+      "color": "#9B59B6",
+      "group": "Music"
+    },
+    {
+      "id": "48-ID",
+      "text": "keyboard",
+      "coord": [
+        -5.149365425109863,
+        44.78544235229492
+      ],
+      "color": "#9B59B6",
+      "group": "Music"
+    },
+    {
+      "id": "49-ID",
+      "text": "cello",
+      "coord": [
+        -12.639949798583984,
+        39.98614501953125
+      ],
+      "color": "#9B59B6",
+      "group": "Music"
+    },
+    {
+      "id": "50-ID",
+      "text": "trombone",
+      "coord": [
+        -17.37978172302246,
+        43.832427978515625
+      ],
+      "color": "#9B59B6",
+      "group": "Music"
+    },
+    {
+      "id": "51-ID",
+      "text": "fairy",
+      "coord": [
+        15.565030097961426,
+        -15.133923530578613
+      ],
+      "color": "#8B4513",
+      "group": "Folklore"
+    },
+    {
+      "id": "52-ID",
+      "text": "elf",
+      "coord": [
+        16.686166763305664,
+        -16.20177459716797
+      ],
+      "color": "#8B4513",
+      "group": "Folklore"
+    },
+    {
+      "id": "53-ID",
+      "text": "dwarf",
+      "coord": [
+        17.828990936279297,
+        -17.80116081237793
+      ],
+      "color": "#8B4513",
+      "group": "Folklore"
+    },
+    {
+      "id": "54-ID",
+      "text": "gnome",
+      "coord": [
+        19.6278133392334,
+        -17.59815788269043
+      ],
+      "color": "#8B4513",
+      "group": "Folklore"
+    },
+    {
+      "id": "55-ID",
+      "text": "troll",
+      "coord": [
+        19.187658309936523,
+        -15.412873268127441
+      ],
+      "color": "#8B4513",
+      "group": "Folklore"
+    },
+    {
+      "id": "56-ID",
+      "text": "ogre",
+      "coord": [
+        19.364164352416992,
+        -11.998284339904785
+      ],
+      "color": "#8B4513",
+      "group": "Folklore"
+    },
+    {
+      "id": "57-ID",
+      "text": "giant",
+      "coord": [
+        14.821975708007812,
+        -0.7339531183242798
+      ],
+      "color": "#8B4513",
+      "group": "Folklore"
+    },
+    {
+      "id": "58-ID",
+      "text": "goblin",
+      "coord": [
+        15.389278411865234,
+        -18.117502212524414
+      ],
+      "color": "#8B4513",
+      "group": "Folklore"
+    },
+    {
+      "id": "59-ID",
+      "text": "orc",
+      "coord": [
+        18.2321720123291,
+        -11.030692100524902
+      ],
+      "color": "#8B4513",
+      "group": "Folklore"
+    },
+    {
+      "id": "60-ID",
+      "text": "hobbit",
+      "coord": [
+        13.247617721557617,
+        -16.794902801513672
+      ],
+      "color": "#8B4513",
+      "group": "Folklore"
+    },
+    {
+      "id": "61-ID",
+      "text": "wizard",
+      "coord": [
+        12.20785140991211,
+        -11.83292293548584
+      ],
+      "color": "#8B4513",
+      "group": "Folklore"
+    },
+    {
+      "id": "62-ID",
+      "text": "witch",
+      "coord": [
+        10.445321083068848,
+        -12.680164337158203
+      ],
+      "color": "#8B4513",
+      "group": "Folklore"
+    },
+    {
+      "id": "63-ID",
+      "text": "sorcerer",
+      "coord": [
+        10.994464874267578,
+        -10.368983268737793
+      ],
+      "color": "#8B4513",
+      "group": "Folklore"
+    },
+    {
+      "id": "64-ID",
+      "text": "mage",
+      "coord": [
+        12.190725326538086,
+        -10.405257225036621
+      ],
+      "color": "#8B4513",
+      "group": "Folklore"
+    },
+    {
+      "id": "65-ID",
+      "text": "dragon",
+      "coord": [
+        17.841657638549805,
+        -20.965282440185547
+      ],
+      "color": "#8B4513",
+      "group": "Folklore"
+    },
+    {
+      "id": "66-ID",
+      "text": "unicorn",
+      "coord": [
+        15.361391067504883,
+        -20.056724548339844
+      ],
+      "color": "#8B4513",
+      "group": "Folklore"
+    },
+    {
+      "id": "67-ID",
+      "text": "phoenix",
+      "coord": [
+        9.80794906616211,
+        -43.30779266357422
+      ],
+      "color": "#8B4513",
+      "group": "Folklore"
+    },
+    {
+      "id": "68-ID",
+      "text": "griffin",
+      "coord": [
+        21.759052276611328,
+        -18.849624633789062
+      ],
+      "color": "#8B4513",
+      "group": "Folklore"
+    },
+    {
+      "id": "69-ID",
+      "text": "hippogriff",
+      "coord": [
+        22.878677368164062,
+        -19.82897186279297
+      ],
+      "color": "#8B4513",
+      "group": "Folklore"
+    },
+    {
+      "id": "70-ID",
+      "text": "pegasus",
+      "coord": [
+        15.68416690826416,
+        -22.90929412841797
+      ],
+      "color": "#8B4513",
+      "group": "Folklore"
+    },
+    {
+      "id": "71-ID",
+      "text": "centaur",
+      "coord": [
+        15.542617797851562,
+        -24.688365936279297
+      ],
+      "color": "#8B4513",
+      "group": "Folklore"
+    },
+    {
+      "id": "72-ID",
+      "text": "satyr",
+      "coord": [
+        15.257258415222168,
+        -26.718957901000977
+      ],
+      "color": "#8B4513",
+      "group": "Folklore"
+    },
+    {
+      "id": "73-ID",
+      "text": "faun",
+      "coord": [
+        24.01971435546875,
+        -4.102651119232178
+      ],
+      "color": "#8B4513",
+      "group": "Folklore"
+    },
+    {
+      "id": "74-ID",
+      "text": "nymph",
+      "coord": [
+        8.66157054901123,
+        -13.623616218566895
+      ],
+      "color": "#8B4513",
+      "group": "Folklore"
+    },
+    {
+      "id": "75-ID",
+      "text": "dryad",
+      "coord": [
+        -14.958267211914062,
+        -26.91409683227539
+      ],
+      "color": "#8B4513",
+      "group": "Folklore"
+    },
+    {
+      "id": "76-ID",
+      "text": "zoology",
+      "coord": [
+        -26.82753562927246,
+        -6.2190775871276855
+      ],
+      "color": "#140D4F",
+      "group": "Biology"
+    },
+    {
+      "id": "77-ID",
+      "text": "botany",
+      "coord": [
+        -11.874926567077637,
+        -11.73687744140625
+      ],
+      "color": "#140D4F",
+      "group": "Biology"
+    },
+    {
+      "id": "78-ID",
+      "text": "cell",
+      "coord": [
+        -11.226977348327637,
+        -0.8961759209632874
+      ],
+      "color": "#140D4F",
+      "group": "Biology"
+    },
+    {
+      "id": "79-ID",
+      "text": "mitochondria",
+      "coord": [
+        -13.263225555419922,
+        -5.125641822814941
+      ],
+      "color": "#140D4F",
+      "group": "Biology"
+    },
+    {
+      "id": "80-ID",
+      "text": "photosynthesis",
+      "coord": [
+        -13.262887954711914,
+        -6.597992897033691
+      ],
+      "color": "#140D4F",
+      "group": "Biology"
+    },
+    {
+      "id": "81-ID",
+      "text": "dna",
+      "coord": [
+        -21.974468231201172,
+        0.1340915560722351
+      ],
+      "color": "#140D4F",
+      "group": "Biology"
+    },
+    {
+      "id": "82-ID",
+      "text": "enzyme",
+      "coord": [
+        -19.56382942199707,
+        -3.755073070526123
+      ],
+      "color": "#140D4F",
+      "group": "Biology"
+    },
+    {
+      "id": "83-ID",
+      "text": "genetics",
+      "coord": [
+        -23.93240737915039,
+        0.19395214319229126
+      ],
+      "color": "#140D4F",
+      "group": "Biology"
+    },
+    {
+      "id": "84-ID",
+      "text": "evolution",
+      "coord": [
+        -25.70640754699707,
+        -2.8766586780548096
+      ],
+      "color": "#140D4F",
+      "group": "Biology"
+    },
+    {
+      "id": "85-ID",
+      "text": "cell membrane",
+      "coord": [
+        -12.339723587036133,
+        -1.2234870195388794
+      ],
+      "color": "#140D4F",
+      "group": "Biology"
+    },
+    {
+      "id": "86-ID",
+      "text": "nucleus",
+      "coord": [
+        -19.899038314819336,
+        2.5623018741607666
+      ],
+      "color": "#140D4F",
+      "group": "Biology"
+    },
+    {
+      "id": "87-ID",
+      "text": "cytoplasm",
+      "coord": [
+        -13.092853546142578,
+        -2.569636821746826
+      ],
+      "color": "#140D4F",
+      "group": "Biology"
+    },
+    {
+      "id": "88-ID",
+      "text": "ribosome",
+      "coord": [
+        -16.11363410949707,
+        -0.8959141373634338
+      ],
+      "color": "#140D4F",
+      "group": "Biology"
+    },
+    {
+      "id": "89-ID",
+      "text": "protein",
+      "coord": [
+        -18.67593002319336,
+        -3.9576103687286377
+      ],
+      "color": "#140D4F",
+      "group": "Biology"
+    },
+    {
+      "id": "90-ID",
+      "text": "chromosome",
+      "coord": [
+        -22.818668365478516,
+        1.7632869482040405
+      ],
+      "color": "#140D4F",
+      "group": "Biology"
+    },
+    {
+      "id": "91-ID",
+      "text": "gene",
+      "coord": [
+        -23.721477508544922,
+        -0.853955090045929
+      ],
+      "color": "#140D4F",
+      "group": "Biology"
+    },
+    {
+      "id": "92-ID",
+      "text": "rna",
+      "coord": [
+        -17.38298225402832,
+        -0.26768550276756287
+      ],
+      "color": "#140D4F",
+      "group": "Biology"
+    },
+    {
+      "id": "93-ID",
+      "text": "virus",
+      "coord": [
+        -22.353586196899414,
+        -6.012536525726318
+      ],
+      "color": "#140D4F",
+      "group": "Biology"
+    },
+    {
+      "id": "94-ID",
+      "text": "bacteria",
+      "coord": [
+        -23.708473205566406,
+        -7.454268932342529
+      ],
+      "color": "#140D4F",
+      "group": "Biology"
+    },
+    {
+      "id": "95-ID",
+      "text": "fungus",
+      "coord": [
+        -22.06032943725586,
+        -12.372103691101074
+      ],
+      "color": "#140D4F",
+      "group": "Biology"
+    },
+    {
+      "id": "96-ID",
+      "text": "algae",
+      "coord": [
+        -14.040067672729492,
+        -9.842782020568848
+      ],
+      "color": "#140D4F",
+      "group": "Biology"
+    },
+    {
+      "id": "97-ID",
+      "text": "tissue",
+      "coord": [
+        -12.567122459411621,
+        3.252657651901245
+      ],
+      "color": "#140D4F",
+      "group": "Biology"
+    },
+    {
+      "id": "98-ID",
+      "text": "organ",
+      "coord": [
+        -12.746719360351562,
+        4.503274917602539
+      ],
+      "color": "#140D4F",
+      "group": "Biology"
+    },
+    {
+      "id": "99-ID",
+      "text": "organism",
+      "coord": [
+        -25.19944190979004,
+        -7.8314642906188965
+      ],
+      "color": "#140D4F",
+      "group": "Biology"
+    },
+    {
+      "id": "100-ID",
+      "text": "species",
+      "coord": [
+        -27.419546127319336,
+        -4.99650764465332
+      ],
+      "color": "#140D4F",
+      "group": "Biology"
+    },
+    {
+      "id": "101-ID",
+      "text": "farm",
+      "coord": [
+        -9.497818946838379,
+        -19.466548919677734
+      ],
+      "color": "#F4D03F",
+      "group": "Agriculture"
+    },
+    {
+      "id": "102-ID",
+      "text": "ranch",
+      "coord": [
+        -6.919088363647461,
+        -20.794361114501953
+      ],
+      "color": "#F4D03F",
+      "group": "Agriculture"
+    },
+    {
+      "id": "103-ID",
+      "text": "crop",
+      "coord": [
+        -11.221433639526367,
+        -19.21634864807129
+      ],
+      "color": "#F4D03F",
+      "group": "Agriculture"
+    },
+    {
+      "id": "104-ID",
+      "text": "livestock",
+      "coord": [
+        -6.4049601554870605,
+        -22.962329864501953
+      ],
+      "color": "#F4D03F",
+      "group": "Agriculture"
+    },
+    {
+      "id": "105-ID",
+      "text": "soil",
+      "coord": [
+        -18.50937843322754,
+        -16.95134735107422
+      ],
+      "color": "#F4D03F",
+      "group": "Agriculture"
+    },
+    {
+      "id": "106-ID",
+      "text": "irrigation",
+      "coord": [
+        -16.28067970275879,
+        -14.269484519958496
+      ],
+      "color": "#F4D03F",
+      "group": "Agriculture"
+    },
+    {
+      "id": "107-ID",
+      "text": "fertilizer",
+      "coord": [
+        -19.05425453186035,
+        -15.731403350830078
+      ],
+      "color": "#F4D03F",
+      "group": "Agriculture"
+    },
+    {
+      "id": "108-ID",
+      "text": "pesticide",
+      "coord": [
+        -21.024288177490234,
+        -14.157955169677734
+      ],
+      "color": "#F4D03F",
+      "group": "Agriculture"
+    },
+    {
+      "id": "109-ID",
+      "text": "harvest",
+      "coord": [
+        -12.374052047729492,
+        -20.394771575927734
+      ],
+      "color": "#F4D03F",
+      "group": "Agriculture"
+    },
+    {
+      "id": "110-ID",
+      "text": "planting",
+      "coord": [
+        -14.129766464233398,
+        -16.987974166870117
+      ],
+      "color": "#F4D03F",
+      "group": "Agriculture"
+    },
+    {
+      "id": "111-ID",
+      "text": "cultivation",
+      "coord": [
+        -12.96898078918457,
+        -17.18898582458496
+      ],
+      "color": "#F4D03F",
+      "group": "Agriculture"
+    },
+    {
+      "id": "112-ID",
+      "text": "breeding",
+      "coord": [
+        -28.603485107421875,
+        -2.6359803676605225
+      ],
+      "color": "#F4D03F",
+      "group": "Agriculture"
+    },
+    {
+      "id": "113-ID",
+      "text": "grazing",
+      "coord": [
+        -7.87739372253418,
+        -23.847984313964844
+      ],
+      "color": "#F4D03F",
+      "group": "Agriculture"
+    },
+    {
+      "id": "114-ID",
+      "text": "pasture",
+      "coord": [
+        -8.255325317382812,
+        -22.66093635559082
+      ],
+      "color": "#F4D03F",
+      "group": "Agriculture"
+    },
+    {
+      "id": "115-ID",
+      "text": "barn",
+      "coord": [
+        -5.585504055023193,
+        -19.895465850830078
+      ],
+      "color": "#F4D03F",
+      "group": "Agriculture"
+    },
+    {
+      "id": "116-ID",
+      "text": "tractor",
+      "coord": [
+        -6.588019371032715,
+        -17.224016189575195
+      ],
+      "color": "#F4D03F",
+      "group": "Agriculture"
+    },
+    {
+      "id": "117-ID",
+      "text": "plow",
+      "coord": [
+        -6.754976749420166,
+        -16.113998413085938
+      ],
+      "color": "#F4D03F",
+      "group": "Agriculture"
+    },
+    {
+      "id": "118-ID",
+      "text": "sowing",
+      "coord": [
+        -10.790632247924805,
+        -23.33112907409668
+      ],
+      "color": "#F4D03F",
+      "group": "Agriculture"
+    },
+    {
+      "id": "119-ID",
+      "text": "reaping",
+      "coord": [
+        -14.435370445251465,
+        -25.027023315429688
+      ],
+      "color": "#F4D03F",
+      "group": "Agriculture"
+    },
+    {
+      "id": "120-ID",
+      "text": "threshing",
+      "coord": [
+        -14.580901145935059,
+        -23.549863815307617
+      ],
+      "color": "#F4D03F",
+      "group": "Agriculture"
+    },
+    {
+      "id": "121-ID",
+      "text": "organic",
+      "coord": [
+        -26.353940963745117,
+        -12.205704689025879
+      ],
+      "color": "#F4D03F",
+      "group": "Agriculture"
+    },
+    {
+      "id": "122-ID",
+      "text": "sustainable",
+      "coord": [
+        -27.265920639038086,
+        -13.417552947998047
+      ],
+      "color": "#F4D03F",
+      "group": "Agriculture"
+    },
+    {
+      "id": "123-ID",
+      "text": "aquaculture",
+      "coord": [
+        -15.182275772094727,
+        -11.410045623779297
+      ],
+      "color": "#F4D03F",
+      "group": "Agriculture"
+    },
+    {
+      "id": "124-ID",
+      "text": "hydroponics",
+      "coord": [
+        -15.566376686096191,
+        -13.107759475708008
+      ],
+      "color": "#F4D03F",
+      "group": "Agriculture"
+    },
+    {
+      "id": "125-ID",
+      "text": "greenhouse",
+      "coord": [
+        -12.46262264251709,
+        -14.925679206848145
+      ],
+      "color": "#F4D03F",
+      "group": "Agriculture"
+    },
+    {
+      "id": "126-ID",
+      "text": "company",
+      "coord": [
+        13.53727912902832,
+        8.217939376831055
+      ],
+      "color": "#2C3E50",
+      "group": "Business"
+    },
+    {
+      "id": "127-ID",
+      "text": "corporation",
+      "coord": [
+        14.502204895019531,
+        8.80803394317627
+      ],
+      "color": "#2C3E50",
+      "group": "Business"
+    },
+    {
+      "id": "128-ID",
+      "text": "firm",
+      "coord": [
+        15.819221496582031,
+        14.518925666809082
+      ],
+      "color": "#2C3E50",
+      "group": "Business"
+    },
+    {
+      "id": "129-ID",
+      "text": "enterprise",
+      "coord": [
+        12.296207427978516,
+        4.920093536376953
+      ],
+      "color": "#2C3E50",
+      "group": "Business"
+    },
+    {
+      "id": "130-ID",
+      "text": "business",
+      "coord": [
+        15.318577766418457,
+        3.6847891807556152
+      ],
+      "color": "#2C3E50",
+      "group": "Business"
+    },
+    {
+      "id": "131-ID",
+      "text": "startup",
+      "coord": [
+        19.30690574645996,
+        3.780150890350342
+      ],
+      "color": "#2C3E50",
+      "group": "Business"
+    },
+    {
+      "id": "132-ID",
+      "text": "small business",
+      "coord": [
+        16.866552352905273,
+        3.5678911209106445
+      ],
+      "color": "#2C3E50",
+      "group": "Business"
+    },
+    {
+      "id": "133-ID",
+      "text": "medium business",
+      "coord": [
+        15.930953025817871,
+        5.054398059844971
+      ],
+      "color": "#2C3E50",
+      "group": "Business"
+    },
+    {
+      "id": "134-ID",
+      "text": "large business",
+      "coord": [
+        14.746834754943848,
+        2.2209622859954834
+      ],
+      "color": "#2C3E50",
+      "group": "Business"
+    },
+    {
+      "id": "135-ID",
+      "text": "multinational",
+      "coord": [
+        17.572065353393555,
+        9.136693000793457
+      ],
+      "color": "#2C3E50",
+      "group": "Business"
+    },
+    {
+      "id": "136-ID",
+      "text": "conglomerate",
+      "coord": [
+        15.982275009155273,
+        8.761887550354004
+      ],
+      "color": "#2C3E50",
+      "group": "Business"
+    },
+    {
+      "id": "137-ID",
+      "text": "holding",
+      "coord": [
+        15.676170349121094,
+        15.951329231262207
+      ],
+      "color": "#2C3E50",
+      "group": "Business"
+    },
+    {
+      "id": "138-ID",
+      "text": "subsidiary",
+      "coord": [
+        15.050854682922363,
+        11.453923225402832
+      ],
+      "color": "#2C3E50",
+      "group": "Business"
+    },
+    {
+      "id": "139-ID",
+      "text": "division",
+      "coord": [
+        -1.5879188776016235,
+        8.647672653198242
+      ],
+      "color": "#2C3E50",
+      "group": "Business"
+    },
+    {
+      "id": "140-ID",
+      "text": "department",
+      "coord": [
+        -2.975893974304199,
+        7.613256454467773
+      ],
+      "color": "#2C3E50",
+      "group": "Business"
+    },
+    {
+      "id": "141-ID",
+      "text": "team",
+      "coord": [
+        -14.32859992980957,
+        12.199304580688477
+      ],
+      "color": "#2C3E50",
+      "group": "Business"
+    },
+    {
+      "id": "142-ID",
+      "text": "employee",
+      "coord": [
+        8.85767650604248,
+        8.301785469055176
+      ],
+      "color": "#2C3E50",
+      "group": "Business"
+    },
+    {
+      "id": "143-ID",
+      "text": "manager",
+      "coord": [
+        7.593532085418701,
+        7.995926380157471
+      ],
+      "color": "#2C3E50",
+      "group": "Business"
+    },
+    {
+      "id": "144-ID",
+      "text": "executive",
+      "coord": [
+        9.806045532226562,
+        10.145947456359863
+      ],
+      "color": "#2C3E50",
+      "group": "Business"
+    },
+    {
+      "id": "145-ID",
+      "text": "ceo",
+      "coord": [
+        10.525760650634766,
+        10.983086585998535
+      ],
+      "color": "#2C3E50",
+      "group": "Business"
+    },
+    {
+      "id": "146-ID",
+      "text": "cfo",
+      "coord": [
+        24.431013107299805,
+        -2.165856122970581
+      ],
+      "color": "#2C3E50",
+      "group": "Business"
+    },
+    {
+      "id": "147-ID",
+      "text": "coo",
+      "coord": [
+        25.638633728027344,
+        0.09128492325544357
+      ],
+      "color": "#2C3E50",
+      "group": "Business"
+    },
+    {
+      "id": "148-ID",
+      "text": "cto",
+      "coord": [
+        24.873432159423828,
+        -0.5768375992774963
+      ],
+      "color": "#2C3E50",
+      "group": "Business"
+    },
+    {
+      "id": "149-ID",
+      "text": "board",
+      "coord": [
+        -3.3838951587677,
+        45.376224517822266
+      ],
+      "color": "#2C3E50",
+      "group": "Business"
+    },
+    {
+      "id": "150-ID",
+      "text": "shareholder",
+      "coord": [
+        13.20330810546875,
+        11.360182762145996
+      ],
+      "color": "#2C3E50",
+      "group": "Business"
+    },
+    {
+      "id": "151-ID",
+      "text": "society",
+      "coord": [
+        -13.761075973510742,
+        16.42535972595215
+      ],
+      "color": "#C0392B",
+      "group": "Sociology"
+    },
+    {
+      "id": "152-ID",
+      "text": "culture",
+      "coord": [
+        -18.06277084350586,
+        17.013349533081055
+      ],
+      "color": "#C0392B",
+      "group": "Sociology"
+    },
+    {
+      "id": "153-ID",
+      "text": "community",
+      "coord": [
+        -14.975337982177734,
+        16.984350204467773
+      ],
+      "color": "#C0392B",
+      "group": "Sociology"
+    },
+    {
+      "id": "154-ID",
+      "text": "family",
+      "coord": [
+        -15.303680419921875,
+        21.024986267089844
+      ],
+      "color": "#C0392B",
+      "group": "Sociology"
+    },
+    {
+      "id": "155-ID",
+      "text": "group",
+      "coord": [
+        -13.824444770812988,
+        14.597654342651367
+      ],
+      "color": "#C0392B",
+      "group": "Sociology"
+    },
+    {
+      "id": "156-ID",
+      "text": "organization",
+      "coord": [
+        -5.145216464996338,
+        8.897846221923828
+      ],
+      "color": "#C0392B",
+      "group": "Sociology"
+    },
+    {
+      "id": "157-ID",
+      "text": "institution",
+      "coord": [
+        -5.428516387939453,
+        7.405030250549316
+      ],
+      "color": "#C0392B",
+      "group": "Sociology"
+    },
+    {
+      "id": "158-ID",
+      "text": "norm",
+      "coord": [
+        -3.781965732574463,
+        16.7346248626709
+      ],
+      "color": "#C0392B",
+      "group": "Sociology"
+    },
+    {
+      "id": "159-ID",
+      "text": "value",
+      "coord": [
+        11.852812767028809,
+        22.608917236328125
+      ],
+      "color": "#C0392B",
+      "group": "Sociology"
+    },
+    {
+      "id": "160-ID",
+      "text": "role",
+      "coord": [
+        7.949957370758057,
+        12.471739768981934
+      ],
+      "color": "#C0392B",
+      "group": "Sociology"
+    },
+    {
+      "id": "161-ID",
+      "text": "status",
+      "coord": [
+        -0.6474171876907349,
+        13.821677207946777
+      ],
+      "color": "#C0392B",
+      "group": "Sociology"
+    },
+    {
+      "id": "162-ID",
+      "text": "class",
+      "coord": [
+        -11.163521766662598,
+        15.532201766967773
+      ],
+      "color": "#C0392B",
+      "group": "Sociology"
+    },
+    {
+      "id": "163-ID",
+      "text": "inequality",
+      "coord": [
+        -3.6665453910827637,
+        15.526643753051758
+      ],
+      "color": "#C0392B",
+      "group": "Sociology"
+    },
+    {
+      "id": "164-ID",
+      "text": "stratification",
+      "coord": [
+        -2.504284143447876,
+        12.994619369506836
+      ],
+      "color": "#C0392B",
+      "group": "Sociology"
+    },
+    {
+      "id": "165-ID",
+      "text": "mobility",
+      "coord": [
+        1.3747165203094482,
+        14.857063293457031
+      ],
+      "color": "#C0392B",
+      "group": "Sociology"
+    },
+    {
+      "id": "166-ID",
+      "text": "race",
+      "coord": [
+        -15.7904691696167,
+        10.737974166870117
+      ],
+      "color": "#C0392B",
+      "group": "Sociology"
+    },
+    {
+      "id": "167-ID",
+      "text": "ethnicity",
+      "coord": [
+        -19.40264129638672,
+        15.618545532226562
+      ],
+      "color": "#C0392B",
+      "group": "Sociology"
+    },
+    {
+      "id": "168-ID",
+      "text": "gender",
+      "coord": [
+        -21.5665340423584,
+        14.270424842834473
+      ],
+      "color": "#C0392B",
+      "group": "Sociology"
+    },
+    {
+      "id": "169-ID",
+      "text": "age",
+      "coord": [
+        -23.056041717529297,
+        14.359426498413086
+      ],
+      "color": "#C0392B",
+      "group": "Sociology"
+    },
+    {
+      "id": "170-ID",
+      "text": "religion",
+      "coord": [
+        -18.51360511779785,
+        18.382827758789062
+      ],
+      "color": "#C0392B",
+      "group": "Sociology"
+    },
+    {
+      "id": "171-ID",
+      "text": "socialization",
+      "coord": [
+        -11.559026718139648,
+        18.785228729248047
+      ],
+      "color": "#C0392B",
+      "group": "Sociology"
+    },
+    {
+      "id": "172-ID",
+      "text": "interaction",
+      "coord": [
+        -11.180952072143555,
+        19.864118576049805
+      ],
+      "color": "#C0392B",
+      "group": "Sociology"
+    },
+    {
+      "id": "173-ID",
+      "text": "relationship",
+      "coord": [
+        -14.384858131408691,
+        21.935216903686523
+      ],
+      "color": "#C0392B",
+      "group": "Sociology"
+    },
+    {
+      "id": "174-ID",
+      "text": "network",
+      "coord": [
+        10.294493675231934,
+        3.6399142742156982
+      ],
+      "color": "#C0392B",
+      "group": "Sociology"
+    },
+    {
+      "id": "175-ID",
+      "text": "structure",
+      "coord": [
+        -5.998932361602783,
+        10.6849365234375
+      ],
+      "color": "#C0392B",
+      "group": "Sociology"
+    },
+    {
+      "id": "176-ID",
+      "text": "star",
+      "coord": [
+        12.505528450012207,
+        -34.026824951171875
+      ],
+      "color": "#34495E",
+      "group": "Astronomy"
+    },
+    {
+      "id": "177-ID",
+      "text": "planet",
+      "coord": [
+        16.009479522705078,
+        -43.074562072753906
+      ],
+      "color": "#34495E",
+      "group": "Astronomy"
+    },
+    {
+      "id": "178-ID",
+      "text": "moon",
+      "coord": [
+        16.508052825927734,
+        -46.91133499145508
+      ],
+      "color": "#34495E",
+      "group": "Astronomy"
+    },
+    {
+      "id": "179-ID",
+      "text": "sun",
+      "coord": [
+        17.67527961730957,
+        -46.6508674621582
+      ],
+      "color": "#34495E",
+      "group": "Astronomy"
+    },
+    {
+      "id": "180-ID",
+      "text": "galaxy",
+      "coord": [
+        8.144754409790039,
+        -34.97285461425781
+      ],
+      "color": "#34495E",
+      "group": "Astronomy"
+    },
+    {
+      "id": "181-ID",
+      "text": "universe",
+      "coord": [
+        5.323385715484619,
+        -38.65735626220703
+      ],
+      "color": "#34495E",
+      "group": "Astronomy"
+    },
+    {
+      "id": "182-ID",
+      "text": "cosmos",
+      "coord": [
+        5.998617172241211,
+        -37.736209869384766
+      ],
+      "color": "#34495E",
+      "group": "Astronomy"
+    },
+    {
+      "id": "183-ID",
+      "text": "nebula",
+      "coord": [
+        10.360583305358887,
+        -38.143978118896484
+      ],
+      "color": "#34495E",
+      "group": "Astronomy"
+    },
+    {
+      "id": "184-ID",
+      "text": "black hole",
+      "coord": [
+        4.688659191131592,
+        -40.912376403808594
+      ],
+      "color": "#34495E",
+      "group": "Astronomy"
+    },
+    {
+      "id": "185-ID",
+      "text": "supernova",
+      "coord": [
+        9.1399564743042,
+        -39.452674865722656
+      ],
+      "color": "#34495E",
+      "group": "Astronomy"
+    },
+    {
+      "id": "186-ID",
+      "text": "comet",
+      "coord": [
+        13.02698802947998,
+        -40.205631256103516
+      ],
+      "color": "#34495E",
+      "group": "Astronomy"
+    },
+    {
+      "id": "187-ID",
+      "text": "asteroid",
+      "coord": [
+        13.291360855102539,
+        -42.40458679199219
+      ],
+      "color": "#34495E",
+      "group": "Astronomy"
+    },
+    {
+      "id": "188-ID",
+      "text": "meteor",
+      "coord": [
+        12.058965682983398,
+        -42.02244567871094
+      ],
+      "color": "#34495E",
+      "group": "Astronomy"
+    },
+    {
+      "id": "189-ID",
+      "text": "orbit",
+      "coord": [
+        15.443620681762695,
+        -40.18863296508789
+      ],
+      "color": "#34495E",
+      "group": "Astronomy"
+    },
+    {
+      "id": "190-ID",
+      "text": "gravity",
+      "coord": [
+        21.43728256225586,
+        -40.2646369934082
+      ],
+      "color": "#34495E",
+      "group": "Astronomy"
+    },
+    {
+      "id": "191-ID",
+      "text": "telescope",
+      "coord": [
+        13.49319076538086,
+        -36.72932815551758
+      ],
+      "color": "#34495E",
+      "group": "Astronomy"
+    },
+    {
+      "id": "192-ID",
+      "text": "observatory",
+      "coord": [
+        14.570068359375,
+        -36.92365646362305
+      ],
+      "color": "#34495E",
+      "group": "Astronomy"
+    },
+    {
+      "id": "193-ID",
+      "text": "astronaut",
+      "coord": [
+        19.72649574279785,
+        -40.888092041015625
+      ],
+      "color": "#34495E",
+      "group": "Astronomy"
+    },
+    {
+      "id": "194-ID",
+      "text": "spacecraft",
+      "coord": [
+        18.070640563964844,
+        -41.216556549072266
+      ],
+      "color": "#34495E",
+      "group": "Astronomy"
+    },
+    {
+      "id": "195-ID",
+      "text": "satellite",
+      "coord": [
+        17.709308624267578,
+        -39.90001678466797
+      ],
+      "color": "#34495E",
+      "group": "Astronomy"
+    },
+    {
+      "id": "196-ID",
+      "text": "constellation",
+      "coord": [
+        11.74421501159668,
+        -35.784366607666016
+      ],
+      "color": "#34495E",
+      "group": "Astronomy"
+    },
+    {
+      "id": "197-ID",
+      "text": "solar system",
+      "coord": [
+        18.005157470703125,
+        -43.187232971191406
+      ],
+      "color": "#34495E",
+      "group": "Astronomy"
+    },
+    {
+      "id": "198-ID",
+      "text": "milky way",
+      "coord": [
+        9.387923240661621,
+        -35.33595657348633
+      ],
+      "color": "#34495E",
+      "group": "Astronomy"
+    },
+    {
+      "id": "199-ID",
+      "text": "andromeda",
+      "coord": [
+        7.349668979644775,
+        -33.22950744628906
+      ],
+      "color": "#34495E",
+      "group": "Astronomy"
+    },
+    {
+      "id": "200-ID",
+      "text": "big bang",
+      "coord": [
+        3.561537265777588,
+        -39.13740921020508
+      ],
+      "color": "#34495E",
+      "group": "Astronomy"
+    }
+  ]
+}

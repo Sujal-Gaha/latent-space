@@ -1,0 +1,2008 @@
+{
+  "session_id": "20260312_213123",
+  "timestamp": "2026-03-12T21:32:37.269940",
+  "dimension": 2,
+  "total_items": 200,
+  "items": [
+    {
+      "id": "1-ID",
+      "text": "rock",
+      "coord": [
+        18.61039924621582,
+        29.135120391845703
+      ],
+      "color": "#7F8C8D",
+      "group": "Geology"
+    },
+    {
+      "id": "2-ID",
+      "text": "mineral",
+      "coord": [
+        20.883359909057617,
+        28.606019973754883
+      ],
+      "color": "#7F8C8D",
+      "group": "Geology"
+    },
+    {
+      "id": "3-ID",
+      "text": "crystal",
+      "coord": [
+        20.801774978637695,
+        30.40596580505371
+      ],
+      "color": "#7F8C8D",
+      "group": "Geology"
+    },
+    {
+      "id": "4-ID",
+      "text": "gemstone",
+      "coord": [
+        19.575214385986328,
+        30.58078384399414
+      ],
+      "color": "#7F8C8D",
+      "group": "Geology"
+    },
+    {
+      "id": "5-ID",
+      "text": "fossil",
+      "coord": [
+        22.287830352783203,
+        28.30580711364746
+      ],
+      "color": "#7F8C8D",
+      "group": "Geology"
+    },
+    {
+      "id": "6-ID",
+      "text": "sediment",
+      "coord": [
+        19.871057510375977,
+        23.334793090820312
+      ],
+      "color": "#7F8C8D",
+      "group": "Geology"
+    },
+    {
+      "id": "7-ID",
+      "text": "soil",
+      "coord": [
+        18.06370735168457,
+        24.289493560791016
+      ],
+      "color": "#7F8C8D",
+      "group": "Geology"
+    },
+    {
+      "id": "8-ID",
+      "text": "sand",
+      "coord": [
+        20.308195114135742,
+        24.35640525817871
+      ],
+      "color": "#7F8C8D",
+      "group": "Geology"
+    },
+    {
+      "id": "9-ID",
+      "text": "clay",
+      "coord": [
+        17.44655990600586,
+        25.314319610595703
+      ],
+      "color": "#7F8C8D",
+      "group": "Geology"
+    },
+    {
+      "id": "10-ID",
+      "text": "gravel",
+      "coord": [
+        20.12226676940918,
+        25.92532730102539
+      ],
+      "color": "#7F8C8D",
+      "group": "Geology"
+    },
+    {
+      "id": "11-ID",
+      "text": "mountain",
+      "coord": [
+        7.228431224822998,
+        25.82246208190918
+      ],
+      "color": "#7F8C8D",
+      "group": "Geology"
+    },
+    {
+      "id": "12-ID",
+      "text": "hill",
+      "coord": [
+        6.254054069519043,
+        25.36616325378418
+      ],
+      "color": "#7F8C8D",
+      "group": "Geology"
+    },
+    {
+      "id": "13-ID",
+      "text": "valley",
+      "coord": [
+        7.907037258148193,
+        24.01152992248535
+      ],
+      "color": "#7F8C8D",
+      "group": "Geology"
+    },
+    {
+      "id": "14-ID",
+      "text": "plain",
+      "coord": [
+        -9.944482803344727,
+        -16.693771362304688
+      ],
+      "color": "#7F8C8D",
+      "group": "Geology"
+    },
+    {
+      "id": "15-ID",
+      "text": "plateau",
+      "coord": [
+        11.563291549682617,
+        25.000640869140625
+      ],
+      "color": "#7F8C8D",
+      "group": "Geology"
+    },
+    {
+      "id": "16-ID",
+      "text": "volcano",
+      "coord": [
+        7.561933994293213,
+        27.63235092163086
+      ],
+      "color": "#7F8C8D",
+      "group": "Geology"
+    },
+    {
+      "id": "17-ID",
+      "text": "earthquake",
+      "coord": [
+        10.369296073913574,
+        29.521757125854492
+      ],
+      "color": "#7F8C8D",
+      "group": "Geology"
+    },
+    {
+      "id": "18-ID",
+      "text": "fault",
+      "coord": [
+        -19.828975677490234,
+        -22.431127548217773
+      ],
+      "color": "#7F8C8D",
+      "group": "Geology"
+    },
+    {
+      "id": "19-ID",
+      "text": "fold",
+      "coord": [
+        -4.705301284790039,
+        -8.378689765930176
+      ],
+      "color": "#7F8C8D",
+      "group": "Geology"
+    },
+    {
+      "id": "20-ID",
+      "text": "layer",
+      "coord": [
+        13.808525085449219,
+        21.26774024963379
+      ],
+      "color": "#7F8C8D",
+      "group": "Geology"
+    },
+    {
+      "id": "21-ID",
+      "text": "stratum",
+      "coord": [
+        14.250945091247559,
+        22.130687713623047
+      ],
+      "color": "#7F8C8D",
+      "group": "Geology"
+    },
+    {
+      "id": "22-ID",
+      "text": "core",
+      "coord": [
+        -1.1565663814544678,
+        -3.8655307292938232
+      ],
+      "color": "#7F8C8D",
+      "group": "Geology"
+    },
+    {
+      "id": "23-ID",
+      "text": "mantle",
+      "coord": [
+        13.497014045715332,
+        29.345947265625
+      ],
+      "color": "#7F8C8D",
+      "group": "Geology"
+    },
+    {
+      "id": "24-ID",
+      "text": "crust",
+      "coord": [
+        12.635432243347168,
+        24.718862533569336
+      ],
+      "color": "#7F8C8D",
+      "group": "Geology"
+    },
+    {
+      "id": "25-ID",
+      "text": "tectonic plate",
+      "coord": [
+        12.005395889282227,
+        28.71847152709961
+      ],
+      "color": "#7F8C8D",
+      "group": "Geology"
+    },
+    {
+      "id": "26-ID",
+      "text": "weather",
+      "coord": [
+        -6.112672805786133,
+        32.21205139160156
+      ],
+      "color": "#5DADE2",
+      "group": "Meteorology"
+    },
+    {
+      "id": "27-ID",
+      "text": "climate",
+      "coord": [
+        -6.382508277893066,
+        30.890125274658203
+      ],
+      "color": "#5DADE2",
+      "group": "Meteorology"
+    },
+    {
+      "id": "28-ID",
+      "text": "atmosphere",
+      "coord": [
+        -6.718933582305908,
+        29.078964233398438
+      ],
+      "color": "#5DADE2",
+      "group": "Meteorology"
+    },
+    {
+      "id": "29-ID",
+      "text": "temperature",
+      "coord": [
+        -7.741040229797363,
+        31.502660751342773
+      ],
+      "color": "#5DADE2",
+      "group": "Meteorology"
+    },
+    {
+      "id": "30-ID",
+      "text": "pressure",
+      "coord": [
+        9.968555450439453,
+        3.2205159664154053
+      ],
+      "color": "#5DADE2",
+      "group": "Meteorology"
+    },
+    {
+      "id": "31-ID",
+      "text": "humidity",
+      "coord": [
+        -3.776116132736206,
+        29.290328979492188
+      ],
+      "color": "#5DADE2",
+      "group": "Meteorology"
+    },
+    {
+      "id": "32-ID",
+      "text": "wind",
+      "coord": [
+        -4.039821147918701,
+        32.92258071899414
+      ],
+      "color": "#5DADE2",
+      "group": "Meteorology"
+    },
+    {
+      "id": "33-ID",
+      "text": "rain",
+      "coord": [
+        -1.723558783531189,
+        31.338321685791016
+      ],
+      "color": "#5DADE2",
+      "group": "Meteorology"
+    },
+    {
+      "id": "34-ID",
+      "text": "snow",
+      "coord": [
+        -6.234517574310303,
+        34.08186340332031
+      ],
+      "color": "#5DADE2",
+      "group": "Meteorology"
+    },
+    {
+      "id": "35-ID",
+      "text": "hail",
+      "coord": [
+        0.23991082608699799,
+        38.21715545654297
+      ],
+      "color": "#5DADE2",
+      "group": "Meteorology"
+    },
+    {
+      "id": "36-ID",
+      "text": "storm",
+      "coord": [
+        -0.2861976623535156,
+        33.847782135009766
+      ],
+      "color": "#5DADE2",
+      "group": "Meteorology"
+    },
+    {
+      "id": "37-ID",
+      "text": "hurricane",
+      "coord": [
+        1.4039500951766968,
+        32.687721252441406
+      ],
+      "color": "#5DADE2",
+      "group": "Meteorology"
+    },
+    {
+      "id": "38-ID",
+      "text": "tornado",
+      "coord": [
+        1.3454291820526123,
+        34.87485122680664
+      ],
+      "color": "#5DADE2",
+      "group": "Meteorology"
+    },
+    {
+      "id": "39-ID",
+      "text": "cyclone",
+      "coord": [
+        2.602086305618286,
+        33.7972526550293
+      ],
+      "color": "#5DADE2",
+      "group": "Meteorology"
+    },
+    {
+      "id": "40-ID",
+      "text": "typhoon",
+      "coord": [
+        2.4790868759155273,
+        32.105403900146484
+      ],
+      "color": "#5DADE2",
+      "group": "Meteorology"
+    },
+    {
+      "id": "41-ID",
+      "text": "thunder",
+      "coord": [
+        -0.7155479788780212,
+        36.13833999633789
+      ],
+      "color": "#5DADE2",
+      "group": "Meteorology"
+    },
+    {
+      "id": "42-ID",
+      "text": "lightning",
+      "coord": [
+        -2.016275644302368,
+        35.71009826660156
+      ],
+      "color": "#5DADE2",
+      "group": "Meteorology"
+    },
+    {
+      "id": "43-ID",
+      "text": "cloud",
+      "coord": [
+        -0.9025812745094299,
+        27.68808364868164
+      ],
+      "color": "#5DADE2",
+      "group": "Meteorology"
+    },
+    {
+      "id": "44-ID",
+      "text": "fog",
+      "coord": [
+        -1.8884228467941284,
+        26.487165451049805
+      ],
+      "color": "#5DADE2",
+      "group": "Meteorology"
+    },
+    {
+      "id": "45-ID",
+      "text": "mist",
+      "coord": [
+        -1.7856042385101318,
+        25.541011810302734
+      ],
+      "color": "#5DADE2",
+      "group": "Meteorology"
+    },
+    {
+      "id": "46-ID",
+      "text": "front",
+      "coord": [
+        -8.920196533203125,
+        -17.001567840576172
+      ],
+      "color": "#5DADE2",
+      "group": "Meteorology"
+    },
+    {
+      "id": "47-ID",
+      "text": "forecast",
+      "coord": [
+        -9.936478614807129,
+        34.00243377685547
+      ],
+      "color": "#5DADE2",
+      "group": "Meteorology"
+    },
+    {
+      "id": "48-ID",
+      "text": "prediction",
+      "coord": [
+        -10.789834022521973,
+        34.425052642822266
+      ],
+      "color": "#5DADE2",
+      "group": "Meteorology"
+    },
+    {
+      "id": "49-ID",
+      "text": "radar",
+      "coord": [
+        -3.6076648235321045,
+        4.620850086212158
+      ],
+      "color": "#5DADE2",
+      "group": "Meteorology"
+    },
+    {
+      "id": "50-ID",
+      "text": "satellite",
+      "coord": [
+        5.955542087554932,
+        -9.70461654663086
+      ],
+      "color": "#5DADE2",
+      "group": "Meteorology"
+    },
+    {
+      "id": "51-ID",
+      "text": "velocity",
+      "coord": [
+        -6.333083629608154,
+        17.03870964050293
+      ],
+      "color": "#00FF00",
+      "group": "Physics"
+    },
+    {
+      "id": "52-ID",
+      "text": "acceleration",
+      "coord": [
+        -7.503477096557617,
+        16.44487190246582
+      ],
+      "color": "#00FF00",
+      "group": "Physics"
+    },
+    {
+      "id": "53-ID",
+      "text": "force",
+      "coord": [
+        -5.693227767944336,
+        -1.3687005043029785
+      ],
+      "color": "#00FF00",
+      "group": "Physics"
+    },
+    {
+      "id": "54-ID",
+      "text": "mass",
+      "coord": [
+        -1.4257490634918213,
+        23.3149356842041
+      ],
+      "color": "#00FF00",
+      "group": "Physics"
+    },
+    {
+      "id": "55-ID",
+      "text": "density",
+      "coord": [
+        0.4283701777458191,
+        12.728755950927734
+      ],
+      "color": "#00FF00",
+      "group": "Physics"
+    },
+    {
+      "id": "56-ID",
+      "text": "volume",
+      "coord": [
+        -0.09811942279338837,
+        11.94793701171875
+      ],
+      "color": "#00FF00",
+      "group": "Physics"
+    },
+    {
+      "id": "57-ID",
+      "text": "energy",
+      "coord": [
+        -16.444194793701172,
+        21.91753578186035
+      ],
+      "color": "#00FF00",
+      "group": "Physics"
+    },
+    {
+      "id": "58-ID",
+      "text": "momentum",
+      "coord": [
+        -5.995248794555664,
+        18.10411262512207
+      ],
+      "color": "#00FF00",
+      "group": "Physics"
+    },
+    {
+      "id": "59-ID",
+      "text": "gravity",
+      "coord": [
+        -11.10655689239502,
+        14.096738815307617
+      ],
+      "color": "#00FF00",
+      "group": "Physics"
+    },
+    {
+      "id": "60-ID",
+      "text": "electromagnetism",
+      "coord": [
+        -12.688064575195312,
+        21.630353927612305
+      ],
+      "color": "#00FF00",
+      "group": "Physics"
+    },
+    {
+      "id": "61-ID",
+      "text": "quantum mechanics",
+      "coord": [
+        -15.557875633239746,
+        16.659196853637695
+      ],
+      "color": "#00FF00",
+      "group": "Physics"
+    },
+    {
+      "id": "62-ID",
+      "text": "relativity",
+      "coord": [
+        -11.531907081604004,
+        14.778209686279297
+      ],
+      "color": "#00FF00",
+      "group": "Physics"
+    },
+    {
+      "id": "63-ID",
+      "text": "thermodynamics",
+      "coord": [
+        -16.791898727416992,
+        18.0374755859375
+      ],
+      "color": "#00FF00",
+      "group": "Physics"
+    },
+    {
+      "id": "64-ID",
+      "text": "frequency",
+      "coord": [
+        -3.352217197418213,
+        9.640945434570312
+      ],
+      "color": "#00FF00",
+      "group": "Physics"
+    },
+    {
+      "id": "65-ID",
+      "text": "wavelength",
+      "coord": [
+        -5.349961757659912,
+        8.510130882263184
+      ],
+      "color": "#00FF00",
+      "group": "Physics"
+    },
+    {
+      "id": "66-ID",
+      "text": "amplitude",
+      "coord": [
+        -3.1098740100860596,
+        10.793807029724121
+      ],
+      "color": "#00FF00",
+      "group": "Physics"
+    },
+    {
+      "id": "67-ID",
+      "text": "power",
+      "coord": [
+        -16.229658126831055,
+        23.934520721435547
+      ],
+      "color": "#00FF00",
+      "group": "Physics"
+    },
+    {
+      "id": "68-ID",
+      "text": "work",
+      "coord": [
+        -20.133525848388672,
+        -11.103310585021973
+      ],
+      "color": "#00FF00",
+      "group": "Physics"
+    },
+    {
+      "id": "69-ID",
+      "text": "kinetic energy",
+      "coord": [
+        -16.904577255249023,
+        20.29777717590332
+      ],
+      "color": "#00FF00",
+      "group": "Physics"
+    },
+    {
+      "id": "70-ID",
+      "text": "potential energy",
+      "coord": [
+        -17.521652221679688,
+        21.768707275390625
+      ],
+      "color": "#00FF00",
+      "group": "Physics"
+    },
+    {
+      "id": "71-ID",
+      "text": "nuclear physics",
+      "coord": [
+        -15.174081802368164,
+        17.98550033569336
+      ],
+      "color": "#00FF00",
+      "group": "Physics"
+    },
+    {
+      "id": "72-ID",
+      "text": "optics",
+      "coord": [
+        -6.141805648803711,
+        7.978989124298096
+      ],
+      "color": "#00FF00",
+      "group": "Physics"
+    },
+    {
+      "id": "73-ID",
+      "text": "magnetism",
+      "coord": [
+        -11.874907493591309,
+        21.172338485717773
+      ],
+      "color": "#00FF00",
+      "group": "Physics"
+    },
+    {
+      "id": "74-ID",
+      "text": "electricity",
+      "coord": [
+        -14.850882530212402,
+        22.93071937561035
+      ],
+      "color": "#00FF00",
+      "group": "Physics"
+    },
+    {
+      "id": "75-ID",
+      "text": "friction",
+      "coord": [
+        -4.265099048614502,
+        16.91388702392578
+      ],
+      "color": "#00FF00",
+      "group": "Physics"
+    },
+    {
+      "id": "76-ID",
+      "text": "school",
+      "coord": [
+        -27.292530059814453,
+        -27.98661231994629
+      ],
+      "color": "#3498DB",
+      "group": "Education"
+    },
+    {
+      "id": "77-ID",
+      "text": "college",
+      "coord": [
+        -27.90839958190918,
+        -31.575687408447266
+      ],
+      "color": "#3498DB",
+      "group": "Education"
+    },
+    {
+      "id": "78-ID",
+      "text": "university",
+      "coord": [
+        -29.101581573486328,
+        -31.89462661743164
+      ],
+      "color": "#3498DB",
+      "group": "Education"
+    },
+    {
+      "id": "79-ID",
+      "text": "teacher",
+      "coord": [
+        -23.894227981567383,
+        -27.348363876342773
+      ],
+      "color": "#3498DB",
+      "group": "Education"
+    },
+    {
+      "id": "80-ID",
+      "text": "student",
+      "coord": [
+        -26.987260818481445,
+        -29.52031707763672
+      ],
+      "color": "#3498DB",
+      "group": "Education"
+    },
+    {
+      "id": "81-ID",
+      "text": "classroom",
+      "coord": [
+        -25.853017807006836,
+        -27.266952514648438
+      ],
+      "color": "#3498DB",
+      "group": "Education"
+    },
+    {
+      "id": "82-ID",
+      "text": "lesson",
+      "coord": [
+        -20.918598175048828,
+        -24.80838394165039
+      ],
+      "color": "#3498DB",
+      "group": "Education"
+    },
+    {
+      "id": "83-ID",
+      "text": "curriculum",
+      "coord": [
+        -25.63482093811035,
+        -25.380552291870117
+      ],
+      "color": "#3498DB",
+      "group": "Education"
+    },
+    {
+      "id": "84-ID",
+      "text": "syllabus",
+      "coord": [
+        -26.65350341796875,
+        -24.174850463867188
+      ],
+      "color": "#3498DB",
+      "group": "Education"
+    },
+    {
+      "id": "85-ID",
+      "text": "assignment",
+      "coord": [
+        -26.03116226196289,
+        -20.060834884643555
+      ],
+      "color": "#3498DB",
+      "group": "Education"
+    },
+    {
+      "id": "86-ID",
+      "text": "homework",
+      "coord": [
+        -26.338294982910156,
+        -20.979509353637695
+      ],
+      "color": "#3498DB",
+      "group": "Education"
+    },
+    {
+      "id": "87-ID",
+      "text": "exam",
+      "coord": [
+        -32.317623138427734,
+        -21.609041213989258
+      ],
+      "color": "#3498DB",
+      "group": "Education"
+    },
+    {
+      "id": "88-ID",
+      "text": "test",
+      "coord": [
+        -32.1401252746582,
+        -20.65135955810547
+      ],
+      "color": "#3498DB",
+      "group": "Education"
+    },
+    {
+      "id": "89-ID",
+      "text": "quiz",
+      "coord": [
+        -31.160001754760742,
+        -19.72808074951172
+      ],
+      "color": "#3498DB",
+      "group": "Education"
+    },
+    {
+      "id": "90-ID",
+      "text": "grade",
+      "coord": [
+        -29.382966995239258,
+        -26.052335739135742
+      ],
+      "color": "#3498DB",
+      "group": "Education"
+    },
+    {
+      "id": "91-ID",
+      "text": "score",
+      "coord": [
+        -32.1936149597168,
+        -23.462495803833008
+      ],
+      "color": "#3498DB",
+      "group": "Education"
+    },
+    {
+      "id": "92-ID",
+      "text": "diploma",
+      "coord": [
+        -26.25283432006836,
+        -33.72401428222656
+      ],
+      "color": "#3498DB",
+      "group": "Education"
+    },
+    {
+      "id": "93-ID",
+      "text": "degree",
+      "coord": [
+        -27.45585823059082,
+        -33.28684616088867
+      ],
+      "color": "#3498DB",
+      "group": "Education"
+    },
+    {
+      "id": "94-ID",
+      "text": "certificate",
+      "coord": [
+        -24.932329177856445,
+        -34.355796813964844
+      ],
+      "color": "#3498DB",
+      "group": "Education"
+    },
+    {
+      "id": "95-ID",
+      "text": "learning",
+      "coord": [
+        -20.59115219116211,
+        -26.66119956970215
+      ],
+      "color": "#3498DB",
+      "group": "Education"
+    },
+    {
+      "id": "96-ID",
+      "text": "teaching",
+      "coord": [
+        -22.79346466064453,
+        -26.925792694091797
+      ],
+      "color": "#3498DB",
+      "group": "Education"
+    },
+    {
+      "id": "97-ID",
+      "text": "training",
+      "coord": [
+        -17.16316032409668,
+        -27.04087257385254
+      ],
+      "color": "#3498DB",
+      "group": "Education"
+    },
+    {
+      "id": "98-ID",
+      "text": "instruction",
+      "coord": [
+        -22.276029586791992,
+        -25.025907516479492
+      ],
+      "color": "#3498DB",
+      "group": "Education"
+    },
+    {
+      "id": "99-ID",
+      "text": "pedagogy",
+      "coord": [
+        -22.552474975585938,
+        -29.304424285888672
+      ],
+      "color": "#3498DB",
+      "group": "Education"
+    },
+    {
+      "id": "100-ID",
+      "text": "assessment",
+      "coord": [
+        -34.008277893066406,
+        -20.770652770996094
+      ],
+      "color": "#3498DB",
+      "group": "Education"
+    },
+    {
+      "id": "101-ID",
+      "text": "espresso",
+      "coord": [
+        15.421070098876953,
+        3.584182024002075
+      ],
+      "color": "#6B4F3C",
+      "group": "Coffee"
+    },
+    {
+      "id": "102-ID",
+      "text": "americano",
+      "coord": [
+        24.146089553833008,
+        -3.260969877243042
+      ],
+      "color": "#6B4F3C",
+      "group": "Coffee"
+    },
+    {
+      "id": "103-ID",
+      "text": "latte",
+      "coord": [
+        18.26653289794922,
+        6.3809494972229
+      ],
+      "color": "#6B4F3C",
+      "group": "Coffee"
+    },
+    {
+      "id": "104-ID",
+      "text": "cappuccino",
+      "coord": [
+        17.025981903076172,
+        0.8059927225112915
+      ],
+      "color": "#6B4F3C",
+      "group": "Coffee"
+    },
+    {
+      "id": "105-ID",
+      "text": "macchiato",
+      "coord": [
+        20.409271240234375,
+        2.829367160797119
+      ],
+      "color": "#6B4F3C",
+      "group": "Coffee"
+    },
+    {
+      "id": "106-ID",
+      "text": "mocha",
+      "coord": [
+        22.107463836669922,
+        3.456465482711792
+      ],
+      "color": "#6B4F3C",
+      "group": "Coffee"
+    },
+    {
+      "id": "107-ID",
+      "text": "frappuccino",
+      "coord": [
+        16.626176834106445,
+        1.7290846109390259
+      ],
+      "color": "#6B4F3C",
+      "group": "Coffee"
+    },
+    {
+      "id": "108-ID",
+      "text": "cold brew",
+      "coord": [
+        14.749445915222168,
+        8.159111976623535
+      ],
+      "color": "#6B4F3C",
+      "group": "Coffee"
+    },
+    {
+      "id": "109-ID",
+      "text": "iced coffee",
+      "coord": [
+        15.830667495727539,
+        7.488513469696045
+      ],
+      "color": "#6B4F3C",
+      "group": "Coffee"
+    },
+    {
+      "id": "110-ID",
+      "text": "filter coffee",
+      "coord": [
+        16.986774444580078,
+        8.331493377685547
+      ],
+      "color": "#6B4F3C",
+      "group": "Coffee"
+    },
+    {
+      "id": "111-ID",
+      "text": "pour over",
+      "coord": [
+        15.631429672241211,
+        11.094222068786621
+      ],
+      "color": "#6B4F3C",
+      "group": "Coffee"
+    },
+    {
+      "id": "112-ID",
+      "text": "french press",
+      "coord": [
+        11.863251686096191,
+        3.2000932693481445
+      ],
+      "color": "#6B4F3C",
+      "group": "Coffee"
+    },
+    {
+      "id": "113-ID",
+      "text": "aeropress",
+      "coord": [
+        13.92555046081543,
+        3.538360834121704
+      ],
+      "color": "#6B4F3C",
+      "group": "Coffee"
+    },
+    {
+      "id": "114-ID",
+      "text": "moka pot",
+      "coord": [
+        22.9792537689209,
+        3.880708694458008
+      ],
+      "color": "#6B4F3C",
+      "group": "Coffee"
+    },
+    {
+      "id": "115-ID",
+      "text": "siphon",
+      "coord": [
+        16.735525131225586,
+        -0.8172858953475952
+      ],
+      "color": "#6B4F3C",
+      "group": "Coffee"
+    },
+    {
+      "id": "116-ID",
+      "text": "arabica",
+      "coord": [
+        26.17987632751465,
+        -2.850637674331665
+      ],
+      "color": "#6B4F3C",
+      "group": "Coffee"
+    },
+    {
+      "id": "117-ID",
+      "text": "robusta",
+      "coord": [
+        29.343875885009766,
+        -4.034773826599121
+      ],
+      "color": "#6B4F3C",
+      "group": "Coffee"
+    },
+    {
+      "id": "118-ID",
+      "text": "liberica",
+      "coord": [
+        29.435277938842773,
+        -5.668838977813721
+      ],
+      "color": "#6B4F3C",
+      "group": "Coffee"
+    },
+    {
+      "id": "119-ID",
+      "text": "single origin",
+      "coord": [
+        -11.478515625,
+        -16.3741512298584
+      ],
+      "color": "#6B4F3C",
+      "group": "Coffee"
+    },
+    {
+      "id": "120-ID",
+      "text": "blend",
+      "coord": [
+        16.64822769165039,
+        12.15971851348877
+      ],
+      "color": "#6B4F3C",
+      "group": "Coffee"
+    },
+    {
+      "id": "121-ID",
+      "text": "dark roast",
+      "coord": [
+        10.653566360473633,
+        9.497380256652832
+      ],
+      "color": "#6B4F3C",
+      "group": "Coffee"
+    },
+    {
+      "id": "122-ID",
+      "text": "medium roast",
+      "coord": [
+        10.690397262573242,
+        11.106496810913086
+      ],
+      "color": "#6B4F3C",
+      "group": "Coffee"
+    },
+    {
+      "id": "123-ID",
+      "text": "light roast",
+      "coord": [
+        11.498300552368164,
+        10.144688606262207
+      ],
+      "color": "#6B4F3C",
+      "group": "Coffee"
+    },
+    {
+      "id": "124-ID",
+      "text": "decaf",
+      "coord": [
+        19.24655532836914,
+        9.257966041564941
+      ],
+      "color": "#6B4F3C",
+      "group": "Coffee"
+    },
+    {
+      "id": "125-ID",
+      "text": "caffeine",
+      "coord": [
+        18.69620132446289,
+        8.233470916748047
+      ],
+      "color": "#6B4F3C",
+      "group": "Coffee"
+    },
+    {
+      "id": "126-ID",
+      "text": "company",
+      "coord": [
+        -16.163959503173828,
+        -3.8498599529266357
+      ],
+      "color": "#2C3E50",
+      "group": "Business"
+    },
+    {
+      "id": "127-ID",
+      "text": "corporation",
+      "coord": [
+        -15.076455116271973,
+        -3.800208568572998
+      ],
+      "color": "#2C3E50",
+      "group": "Business"
+    },
+    {
+      "id": "128-ID",
+      "text": "firm",
+      "coord": [
+        -6.698964595794678,
+        -2.446852684020996
+      ],
+      "color": "#2C3E50",
+      "group": "Business"
+    },
+    {
+      "id": "129-ID",
+      "text": "enterprise",
+      "coord": [
+        -18.455984115600586,
+        -3.989067792892456
+      ],
+      "color": "#2C3E50",
+      "group": "Business"
+    },
+    {
+      "id": "130-ID",
+      "text": "business",
+      "coord": [
+        -18.767927169799805,
+        -1.357564091682434
+      ],
+      "color": "#2C3E50",
+      "group": "Business"
+    },
+    {
+      "id": "131-ID",
+      "text": "startup",
+      "coord": [
+        -21.423505783081055,
+        -3.0111474990844727
+      ],
+      "color": "#2C3E50",
+      "group": "Business"
+    },
+    {
+      "id": "132-ID",
+      "text": "small business",
+      "coord": [
+        -20.425325393676758,
+        -0.9032149314880371
+      ],
+      "color": "#2C3E50",
+      "group": "Business"
+    },
+    {
+      "id": "133-ID",
+      "text": "medium business",
+      "coord": [
+        -19.118730545043945,
+        1.006983995437622
+      ],
+      "color": "#2C3E50",
+      "group": "Business"
+    },
+    {
+      "id": "134-ID",
+      "text": "large business",
+      "coord": [
+        -17.17747688293457,
+        -0.7289141416549683
+      ],
+      "color": "#2C3E50",
+      "group": "Business"
+    },
+    {
+      "id": "135-ID",
+      "text": "multinational",
+      "coord": [
+        -13.348834991455078,
+        -1.4022258520126343
+      ],
+      "color": "#2C3E50",
+      "group": "Business"
+    },
+    {
+      "id": "136-ID",
+      "text": "conglomerate",
+      "coord": [
+        -14.124212265014648,
+        -2.7056376934051514
+      ],
+      "color": "#2C3E50",
+      "group": "Business"
+    },
+    {
+      "id": "137-ID",
+      "text": "holding",
+      "coord": [
+        -6.163547992706299,
+        -4.4823408126831055
+      ],
+      "color": "#2C3E50",
+      "group": "Business"
+    },
+    {
+      "id": "138-ID",
+      "text": "subsidiary",
+      "coord": [
+        -12.596848487854004,
+        -4.879119873046875
+      ],
+      "color": "#2C3E50",
+      "group": "Business"
+    },
+    {
+      "id": "139-ID",
+      "text": "division",
+      "coord": [
+        -26.418947219848633,
+        -9.178749084472656
+      ],
+      "color": "#2C3E50",
+      "group": "Business"
+    },
+    {
+      "id": "140-ID",
+      "text": "department",
+      "coord": [
+        -25.377443313598633,
+        -8.915655136108398
+      ],
+      "color": "#2C3E50",
+      "group": "Business"
+    },
+    {
+      "id": "141-ID",
+      "text": "team",
+      "coord": [
+        -27.850419998168945,
+        -9.750490188598633
+      ],
+      "color": "#2C3E50",
+      "group": "Business"
+    },
+    {
+      "id": "142-ID",
+      "text": "employee",
+      "coord": [
+        -19.728431701660156,
+        -9.93677806854248
+      ],
+      "color": "#2C3E50",
+      "group": "Business"
+    },
+    {
+      "id": "143-ID",
+      "text": "manager",
+      "coord": [
+        -20.055429458618164,
+        -8.472522735595703
+      ],
+      "color": "#2C3E50",
+      "group": "Business"
+    },
+    {
+      "id": "144-ID",
+      "text": "executive",
+      "coord": [
+        -17.340927124023438,
+        -7.629745960235596
+      ],
+      "color": "#2C3E50",
+      "group": "Business"
+    },
+    {
+      "id": "145-ID",
+      "text": "ceo",
+      "coord": [
+        -16.324352264404297,
+        -7.284807205200195
+      ],
+      "color": "#2C3E50",
+      "group": "Business"
+    },
+    {
+      "id": "146-ID",
+      "text": "cfo",
+      "coord": [
+        17.880125045776367,
+        -6.297525405883789
+      ],
+      "color": "#2C3E50",
+      "group": "Business"
+    },
+    {
+      "id": "147-ID",
+      "text": "coo",
+      "coord": [
+        20.047718048095703,
+        -5.639669895172119
+      ],
+      "color": "#2C3E50",
+      "group": "Business"
+    },
+    {
+      "id": "148-ID",
+      "text": "cto",
+      "coord": [
+        19.20530891418457,
+        -6.053676128387451
+      ],
+      "color": "#2C3E50",
+      "group": "Business"
+    },
+    {
+      "id": "149-ID",
+      "text": "board",
+      "coord": [
+        -33.53014373779297,
+        -24.415756225585938
+      ],
+      "color": "#2C3E50",
+      "group": "Business"
+    },
+    {
+      "id": "150-ID",
+      "text": "shareholder",
+      "coord": [
+        -14.165241241455078,
+        -5.923983097076416
+      ],
+      "color": "#2C3E50",
+      "group": "Business"
+    },
+    {
+      "id": "151-ID",
+      "text": "airplane",
+      "coord": [
+        5.042173385620117,
+        -18.71634292602539
+      ],
+      "color": "#4682B4",
+      "group": "Aviation"
+    },
+    {
+      "id": "152-ID",
+      "text": "aircraft",
+      "coord": [
+        6.193589210510254,
+        -18.66058921813965
+      ],
+      "color": "#4682B4",
+      "group": "Aviation"
+    },
+    {
+      "id": "153-ID",
+      "text": "jet",
+      "coord": [
+        6.99387788772583,
+        -20.779573440551758
+      ],
+      "color": "#4682B4",
+      "group": "Aviation"
+    },
+    {
+      "id": "154-ID",
+      "text": "helicopter",
+      "coord": [
+        8.793742179870605,
+        -16.820053100585938
+      ],
+      "color": "#4682B4",
+      "group": "Aviation"
+    },
+    {
+      "id": "155-ID",
+      "text": "glider",
+      "coord": [
+        3.6446421146392822,
+        -14.181358337402344
+      ],
+      "color": "#4682B4",
+      "group": "Aviation"
+    },
+    {
+      "id": "156-ID",
+      "text": "biplane",
+      "coord": [
+        4.093214511871338,
+        -17.032148361206055
+      ],
+      "color": "#4682B4",
+      "group": "Aviation"
+    },
+    {
+      "id": "157-ID",
+      "text": "seaplane",
+      "coord": [
+        6.247206687927246,
+        -16.064115524291992
+      ],
+      "color": "#4682B4",
+      "group": "Aviation"
+    },
+    {
+      "id": "158-ID",
+      "text": "floatplane",
+      "coord": [
+        6.01688289642334,
+        -14.998061180114746
+      ],
+      "color": "#4682B4",
+      "group": "Aviation"
+    },
+    {
+      "id": "159-ID",
+      "text": "amphibious",
+      "coord": [
+        9.554009437561035,
+        -12.333078384399414
+      ],
+      "color": "#4682B4",
+      "group": "Aviation"
+    },
+    {
+      "id": "160-ID",
+      "text": "airliner",
+      "coord": [
+        5.0570173263549805,
+        -19.976200103759766
+      ],
+      "color": "#4682B4",
+      "group": "Aviation"
+    },
+    {
+      "id": "161-ID",
+      "text": "cargo",
+      "coord": [
+        -5.276571273803711,
+        -10.445124626159668
+      ],
+      "color": "#4682B4",
+      "group": "Aviation"
+    },
+    {
+      "id": "162-ID",
+      "text": "military",
+      "coord": [
+        -4.326704025268555,
+        0.9043319225311279
+      ],
+      "color": "#4682B4",
+      "group": "Aviation"
+    },
+    {
+      "id": "163-ID",
+      "text": "fighter",
+      "coord": [
+        5.344776630401611,
+        -24.348546981811523
+      ],
+      "color": "#4682B4",
+      "group": "Aviation"
+    },
+    {
+      "id": "164-ID",
+      "text": "bomber",
+      "coord": [
+        6.35506534576416,
+        -22.978031158447266
+      ],
+      "color": "#4682B4",
+      "group": "Aviation"
+    },
+    {
+      "id": "165-ID",
+      "text": "reconnaissance",
+      "coord": [
+        -3.7238175868988037,
+        3.553443431854248
+      ],
+      "color": "#4682B4",
+      "group": "Aviation"
+    },
+    {
+      "id": "166-ID",
+      "text": "trainer",
+      "coord": [
+        -16.309106826782227,
+        -27.006223678588867
+      ],
+      "color": "#4682B4",
+      "group": "Aviation"
+    },
+    {
+      "id": "167-ID",
+      "text": "private",
+      "coord": [
+        -8.733150482177734,
+        -2.418074369430542
+      ],
+      "color": "#4682B4",
+      "group": "Aviation"
+    },
+    {
+      "id": "168-ID",
+      "text": "business",
+      "coord": [
+        -18.767927169799805,
+        -1.357564091682434
+      ],
+      "color": "#4682B4",
+      "group": "Aviation"
+    },
+    {
+      "id": "169-ID",
+      "text": "general aviation",
+      "coord": [
+        7.963425159454346,
+        -19.132352828979492
+      ],
+      "color": "#4682B4",
+      "group": "Aviation"
+    },
+    {
+      "id": "170-ID",
+      "text": "pilot",
+      "coord": [
+        3.3139798641204834,
+        -21.49037742614746
+      ],
+      "color": "#4682B4",
+      "group": "Aviation"
+    },
+    {
+      "id": "171-ID",
+      "text": "cockpit",
+      "coord": [
+        2.1414740085601807,
+        -20.04879379272461
+      ],
+      "color": "#4682B4",
+      "group": "Aviation"
+    },
+    {
+      "id": "172-ID",
+      "text": "cabin",
+      "coord": [
+        0.13739188015460968,
+        -19.485767364501953
+      ],
+      "color": "#4682B4",
+      "group": "Aviation"
+    },
+    {
+      "id": "173-ID",
+      "text": "wing",
+      "coord": [
+        2.138686418533325,
+        -15.817741394042969
+      ],
+      "color": "#4682B4",
+      "group": "Aviation"
+    },
+    {
+      "id": "174-ID",
+      "text": "fuselage",
+      "coord": [
+        2.4877967834472656,
+        -18.180316925048828
+      ],
+      "color": "#4682B4",
+      "group": "Aviation"
+    },
+    {
+      "id": "175-ID",
+      "text": "tail",
+      "coord": [
+        -5.112821102142334,
+        -16.466365814208984
+      ],
+      "color": "#4682B4",
+      "group": "Aviation"
+    },
+    {
+      "id": "176-ID",
+      "text": "zeus",
+      "coord": [
+        39.688838958740234,
+        -10.35728931427002
+      ],
+      "color": "#9400D3",
+      "group": "Mythology"
+    },
+    {
+      "id": "177-ID",
+      "text": "hera",
+      "coord": [
+        31.82870864868164,
+        -3.5903046131134033
+      ],
+      "color": "#9400D3",
+      "group": "Mythology"
+    },
+    {
+      "id": "178-ID",
+      "text": "poseidon",
+      "coord": [
+        38.61032485961914,
+        -14.95212459564209
+      ],
+      "color": "#9400D3",
+      "group": "Mythology"
+    },
+    {
+      "id": "179-ID",
+      "text": "hades",
+      "coord": [
+        38.83217239379883,
+        -13.684844970703125
+      ],
+      "color": "#9400D3",
+      "group": "Mythology"
+    },
+    {
+      "id": "180-ID",
+      "text": "athena",
+      "coord": [
+        37.0710334777832,
+        -9.687440872192383
+      ],
+      "color": "#9400D3",
+      "group": "Mythology"
+    },
+    {
+      "id": "181-ID",
+      "text": "apollo",
+      "coord": [
+        34.64594650268555,
+        -9.352350234985352
+      ],
+      "color": "#9400D3",
+      "group": "Mythology"
+    },
+    {
+      "id": "182-ID",
+      "text": "artemis",
+      "coord": [
+        35.99955749511719,
+        -9.580699920654297
+      ],
+      "color": "#9400D3",
+      "group": "Mythology"
+    },
+    {
+      "id": "183-ID",
+      "text": "ares",
+      "coord": [
+        36.36849594116211,
+        -11.397106170654297
+      ],
+      "color": "#9400D3",
+      "group": "Mythology"
+    },
+    {
+      "id": "184-ID",
+      "text": "aphrodite",
+      "coord": [
+        37.54741287231445,
+        -7.155776500701904
+      ],
+      "color": "#9400D3",
+      "group": "Mythology"
+    },
+    {
+      "id": "185-ID",
+      "text": "hermes",
+      "coord": [
+        38.87715530395508,
+        -12.173409461975098
+      ],
+      "color": "#9400D3",
+      "group": "Mythology"
+    },
+    {
+      "id": "186-ID",
+      "text": "dionysus",
+      "coord": [
+        37.69175338745117,
+        -2.637861967086792
+      ],
+      "color": "#9400D3",
+      "group": "Mythology"
+    },
+    {
+      "id": "187-ID",
+      "text": "demeter",
+      "coord": [
+        37.50923538208008,
+        -4.414523124694824
+      ],
+      "color": "#9400D3",
+      "group": "Mythology"
+    },
+    {
+      "id": "188-ID",
+      "text": "hestia",
+      "coord": [
+        33.249996185302734,
+        -3.2569355964660645
+      ],
+      "color": "#9400D3",
+      "group": "Mythology"
+    },
+    {
+      "id": "189-ID",
+      "text": "hephaestus",
+      "coord": [
+        34.628265380859375,
+        -2.802037239074707
+      ],
+      "color": "#9400D3",
+      "group": "Mythology"
+    },
+    {
+      "id": "190-ID",
+      "text": "persephone",
+      "coord": [
+        39.91539001464844,
+        -4.765534400939941
+      ],
+      "color": "#9400D3",
+      "group": "Mythology"
+    },
+    {
+      "id": "191-ID",
+      "text": "hercules",
+      "coord": [
+        40.59611892700195,
+        -11.195440292358398
+      ],
+      "color": "#9400D3",
+      "group": "Mythology"
+    },
+    {
+      "id": "192-ID",
+      "text": "perseus",
+      "coord": [
+        40.62192916870117,
+        -4.078401565551758
+      ],
+      "color": "#9400D3",
+      "group": "Mythology"
+    },
+    {
+      "id": "193-ID",
+      "text": "theseus",
+      "coord": [
+        38.50834274291992,
+        -1.4404460191726685
+      ],
+      "color": "#9400D3",
+      "group": "Mythology"
+    },
+    {
+      "id": "194-ID",
+      "text": "jason",
+      "coord": [
+        31.27195167541504,
+        -13.64681625366211
+      ],
+      "color": "#9400D3",
+      "group": "Mythology"
+    },
+    {
+      "id": "195-ID",
+      "text": "odysseus",
+      "coord": [
+        41.92087173461914,
+        -5.981379508972168
+      ],
+      "color": "#9400D3",
+      "group": "Mythology"
+    },
+    {
+      "id": "196-ID",
+      "text": "achilles",
+      "coord": [
+        35.33331298828125,
+        -12.849541664123535
+      ],
+      "color": "#9400D3",
+      "group": "Mythology"
+    },
+    {
+      "id": "197-ID",
+      "text": "hector",
+      "coord": [
+        44.16299057006836,
+        -11.96216869354248
+      ],
+      "color": "#9400D3",
+      "group": "Mythology"
+    },
+    {
+      "id": "198-ID",
+      "text": "agamemnon",
+      "coord": [
+        35.753849029541016,
+        -6.778407096862793
+      ],
+      "color": "#9400D3",
+      "group": "Mythology"
+    },
+    {
+      "id": "199-ID",
+      "text": "menelaus",
+      "coord": [
+        41.33173751831055,
+        -2.342559337615967
+      ],
+      "color": "#9400D3",
+      "group": "Mythology"
+    },
+    {
+      "id": "200-ID",
+      "text": "nestor",
+      "coord": [
+        43.842830657958984,
+        -12.825550079345703
+      ],
+      "color": "#9400D3",
+      "group": "Mythology"
+    }
+  ]
+}

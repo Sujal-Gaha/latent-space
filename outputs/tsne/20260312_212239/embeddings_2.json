@@ -1,0 +1,2008 @@
+{
+  "session_id": "20260312_212239",
+  "timestamp": "2026-03-12T21:23:54.769234",
+  "dimension": 2,
+  "total_items": 200,
+  "items": [
+    {
+      "id": "1-ID",
+      "text": "guitar",
+      "coord": [
+        -15.136661529541016,
+        9.849231719970703
+      ],
+      "color": "#9B59B6",
+      "group": "Music"
+    },
+    {
+      "id": "2-ID",
+      "text": "piano",
+      "coord": [
+        -20.039384841918945,
+        4.0820393562316895
+      ],
+      "color": "#9B59B6",
+      "group": "Music"
+    },
+    {
+      "id": "3-ID",
+      "text": "violin",
+      "coord": [
+        -17.14556884765625,
+        13.313279151916504
+      ],
+      "color": "#9B59B6",
+      "group": "Music"
+    },
+    {
+      "id": "4-ID",
+      "text": "drums",
+      "coord": [
+        -14.264917373657227,
+        2.9908289909362793
+      ],
+      "color": "#9B59B6",
+      "group": "Music"
+    },
+    {
+      "id": "5-ID",
+      "text": "flute",
+      "coord": [
+        -18.081096649169922,
+        16.450824737548828
+      ],
+      "color": "#9B59B6",
+      "group": "Music"
+    },
+    {
+      "id": "6-ID",
+      "text": "symphony",
+      "coord": [
+        -20.654678344726562,
+        10.551656723022461
+      ],
+      "color": "#9B59B6",
+      "group": "Music"
+    },
+    {
+      "id": "7-ID",
+      "text": "melody",
+      "coord": [
+        -11.211616516113281,
+        4.072137832641602
+      ],
+      "color": "#9B59B6",
+      "group": "Music"
+    },
+    {
+      "id": "8-ID",
+      "text": "rhythm",
+      "coord": [
+        -12.54198932647705,
+        2.365809440612793
+      ],
+      "color": "#9B59B6",
+      "group": "Music"
+    },
+    {
+      "id": "9-ID",
+      "text": "orchestra",
+      "coord": [
+        -21.55930519104004,
+        11.01368236541748
+      ],
+      "color": "#9B59B6",
+      "group": "Music"
+    },
+    {
+      "id": "10-ID",
+      "text": "concert",
+      "coord": [
+        -18.92067527770996,
+        8.483449935913086
+      ],
+      "color": "#9B59B6",
+      "group": "Music"
+    },
+    {
+      "id": "11-ID",
+      "text": "bass",
+      "coord": [
+        -15.07093334197998,
+        4.724889755249023
+      ],
+      "color": "#9B59B6",
+      "group": "Music"
+    },
+    {
+      "id": "12-ID",
+      "text": "trumpet",
+      "coord": [
+        -21.731904983520508,
+        16.858617782592773
+      ],
+      "color": "#9B59B6",
+      "group": "Music"
+    },
+    {
+      "id": "13-ID",
+      "text": "saxophone",
+      "coord": [
+        -19.668865203857422,
+        17.37908172607422
+      ],
+      "color": "#9B59B6",
+      "group": "Music"
+    },
+    {
+      "id": "14-ID",
+      "text": "harp",
+      "coord": [
+        -15.24502182006836,
+        12.869132995605469
+      ],
+      "color": "#9B59B6",
+      "group": "Music"
+    },
+    {
+      "id": "15-ID",
+      "text": "clarinet",
+      "coord": [
+        -19.36138916015625,
+        15.848782539367676
+      ],
+      "color": "#9B59B6",
+      "group": "Music"
+    },
+    {
+      "id": "16-ID",
+      "text": "opera",
+      "coord": [
+        -22.977020263671875,
+        11.94067668914795
+      ],
+      "color": "#9B59B6",
+      "group": "Music"
+    },
+    {
+      "id": "17-ID",
+      "text": "harmony",
+      "coord": [
+        -9.261795997619629,
+        4.99807596206665
+      ],
+      "color": "#9B59B6",
+      "group": "Music"
+    },
+    {
+      "id": "18-ID",
+      "text": "tempo",
+      "coord": [
+        -12.12293815612793,
+        0.9726572632789612
+      ],
+      "color": "#9B59B6",
+      "group": "Music"
+    },
+    {
+      "id": "19-ID",
+      "text": "chorus",
+      "coord": [
+        -10.73029613494873,
+        6.7085723876953125
+      ],
+      "color": "#9B59B6",
+      "group": "Music"
+    },
+    {
+      "id": "20-ID",
+      "text": "verse",
+      "coord": [
+        -10.296375274658203,
+        7.990236759185791
+      ],
+      "color": "#9B59B6",
+      "group": "Music"
+    },
+    {
+      "id": "21-ID",
+      "text": "acoustic",
+      "coord": [
+        -15.945944786071777,
+        9.064106941223145
+      ],
+      "color": "#9B59B6",
+      "group": "Music"
+    },
+    {
+      "id": "22-ID",
+      "text": "electric",
+      "coord": [
+        17.464481353759766,
+        5.986104488372803
+      ],
+      "color": "#9B59B6",
+      "group": "Music"
+    },
+    {
+      "id": "23-ID",
+      "text": "keyboard",
+      "coord": [
+        -20.33312225341797,
+        3.116002321243286
+      ],
+      "color": "#9B59B6",
+      "group": "Music"
+    },
+    {
+      "id": "24-ID",
+      "text": "cello",
+      "coord": [
+        -18.705942153930664,
+        13.256098747253418
+      ],
+      "color": "#9B59B6",
+      "group": "Music"
+    },
+    {
+      "id": "25-ID",
+      "text": "trombone",
+      "coord": [
+        -22.79316520690918,
+        16.246753692626953
+      ],
+      "color": "#9B59B6",
+      "group": "Music"
+    },
+    {
+      "id": "26-ID",
+      "text": "cat",
+      "coord": [
+        -45.298377990722656,
+        -0.22402754426002502
+      ],
+      "color": "#1ABC9C",
+      "group": "Animal"
+    },
+    {
+      "id": "27-ID",
+      "text": "dog",
+      "coord": [
+        -36.4295654296875,
+        1.9061139822006226
+      ],
+      "color": "#1ABC9C",
+      "group": "Animal"
+    },
+    {
+      "id": "28-ID",
+      "text": "elephant",
+      "coord": [
+        -41.365726470947266,
+        4.290605545043945
+      ],
+      "color": "#1ABC9C",
+      "group": "Animal"
+    },
+    {
+      "id": "29-ID",
+      "text": "lion",
+      "coord": [
+        -40.10957336425781,
+        -1.3102267980575562
+      ],
+      "color": "#1ABC9C",
+      "group": "Animal"
+    },
+    {
+      "id": "30-ID",
+      "text": "tiger",
+      "coord": [
+        -42.69050979614258,
+        -0.4953508675098419
+      ],
+      "color": "#1ABC9C",
+      "group": "Animal"
+    },
+    {
+      "id": "31-ID",
+      "text": "horse",
+      "coord": [
+        -38.53252410888672,
+        2.2181649208068848
+      ],
+      "color": "#1ABC9C",
+      "group": "Animal"
+    },
+    {
+      "id": "32-ID",
+      "text": "rabbit",
+      "coord": [
+        -37.16444778442383,
+        5.247592449188232
+      ],
+      "color": "#1ABC9C",
+      "group": "Animal"
+    },
+    {
+      "id": "33-ID",
+      "text": "giraffe",
+      "coord": [
+        -43.21010971069336,
+        -7.510024547576904
+      ],
+      "color": "#1ABC9C",
+      "group": "Animal"
+    },
+    {
+      "id": "34-ID",
+      "text": "zebra",
+      "coord": [
+        -43.09836196899414,
+        -3.5388941764831543
+      ],
+      "color": "#1ABC9C",
+      "group": "Animal"
+    },
+    {
+      "id": "35-ID",
+      "text": "monkey",
+      "coord": [
+        -39.05723571777344,
+        -7.186068058013916
+      ],
+      "color": "#1ABC9C",
+      "group": "Animal"
+    },
+    {
+      "id": "36-ID",
+      "text": "kangaroo",
+      "coord": [
+        -40.94175720214844,
+        8.85372257232666
+      ],
+      "color": "#1ABC9C",
+      "group": "Animal"
+    },
+    {
+      "id": "37-ID",
+      "text": "panda",
+      "coord": [
+        -38.425167083740234,
+        -3.4711318016052246
+      ],
+      "color": "#1ABC9C",
+      "group": "Animal"
+    },
+    {
+      "id": "38-ID",
+      "text": "bear",
+      "coord": [
+        -38.256988525390625,
+        -1.985599398612976
+      ],
+      "color": "#1ABC9C",
+      "group": "Animal"
+    },
+    {
+      "id": "39-ID",
+      "text": "wolf",
+      "coord": [
+        -35.50697708129883,
+        1.118380069732666
+      ],
+      "color": "#1ABC9C",
+      "group": "Animal"
+    },
+    {
+      "id": "40-ID",
+      "text": "fox",
+      "coord": [
+        -34.784088134765625,
+        -1.5546836853027344
+      ],
+      "color": "#1ABC9C",
+      "group": "Animal"
+    },
+    {
+      "id": "41-ID",
+      "text": "deer",
+      "coord": [
+        -39.874534606933594,
+        5.089937210083008
+      ],
+      "color": "#1ABC9C",
+      "group": "Animal"
+    },
+    {
+      "id": "42-ID",
+      "text": "koala",
+      "coord": [
+        -41.079978942871094,
+        9.917296409606934
+      ],
+      "color": "#1ABC9C",
+      "group": "Animal"
+    },
+    {
+      "id": "43-ID",
+      "text": "rhinoceros",
+      "coord": [
+        -42.807533264160156,
+        3.97999906539917
+      ],
+      "color": "#1ABC9C",
+      "group": "Animal"
+    },
+    {
+      "id": "44-ID",
+      "text": "hippopotamus",
+      "coord": [
+        -45.31258010864258,
+        3.2750155925750732
+      ],
+      "color": "#1ABC9C",
+      "group": "Animal"
+    },
+    {
+      "id": "45-ID",
+      "text": "cheetah",
+      "coord": [
+        -45.75038528442383,
+        1.6801105737686157
+      ],
+      "color": "#1ABC9C",
+      "group": "Animal"
+    },
+    {
+      "id": "46-ID",
+      "text": "leopard",
+      "coord": [
+        -41.41452407836914,
+        -2.40286922454834
+      ],
+      "color": "#1ABC9C",
+      "group": "Animal"
+    },
+    {
+      "id": "47-ID",
+      "text": "camel",
+      "coord": [
+        -40.057621002197266,
+        2.0767533779144287
+      ],
+      "color": "#1ABC9C",
+      "group": "Animal"
+    },
+    {
+      "id": "48-ID",
+      "text": "gorilla",
+      "coord": [
+        -39.93458557128906,
+        -6.1531243324279785
+      ],
+      "color": "#1ABC9C",
+      "group": "Animal"
+    },
+    {
+      "id": "49-ID",
+      "text": "chimpanzee",
+      "coord": [
+        -40.924686431884766,
+        -7.786102294921875
+      ],
+      "color": "#1ABC9C",
+      "group": "Animal"
+    },
+    {
+      "id": "50-ID",
+      "text": "orangutan",
+      "coord": [
+        -40.695960998535156,
+        -9.00730037689209
+      ],
+      "color": "#1ABC9C",
+      "group": "Animal"
+    },
+    {
+      "id": "51-ID",
+      "text": "laptop",
+      "coord": [
+        -4.349240779876709,
+        -15.273589134216309
+      ],
+      "color": "#F6515B",
+      "group": "Technology"
+    },
+    {
+      "id": "52-ID",
+      "text": "smartphone",
+      "coord": [
+        -0.6010239720344543,
+        -3.9729270935058594
+      ],
+      "color": "#F6515B",
+      "group": "Technology"
+    },
+    {
+      "id": "53-ID",
+      "text": "database",
+      "coord": [
+        10.290170669555664,
+        -23.00213050842285
+      ],
+      "color": "#F6515B",
+      "group": "Technology"
+    },
+    {
+      "id": "54-ID",
+      "text": "cloud computing",
+      "coord": [
+        8.033892631530762,
+        -11.643082618713379
+      ],
+      "color": "#F6515B",
+      "group": "Technology"
+    },
+    {
+      "id": "55-ID",
+      "text": "cybersecurity",
+      "coord": [
+        -1.8370962142944336,
+        -20.519712448120117
+      ],
+      "color": "#F6515B",
+      "group": "Technology"
+    },
+    {
+      "id": "56-ID",
+      "text": "machine learning",
+      "coord": [
+        6.028782367706299,
+        -15.860401153564453
+      ],
+      "color": "#F6515B",
+      "group": "Technology"
+    },
+    {
+      "id": "57-ID",
+      "text": "artificial intelligence",
+      "coord": [
+        3.2243778705596924,
+        -13.799949645996094
+      ],
+      "color": "#F6515B",
+      "group": "Technology"
+    },
+    {
+      "id": "58-ID",
+      "text": "programming",
+      "coord": [
+        10.858667373657227,
+        -16.63101577758789
+      ],
+      "color": "#F6515B",
+      "group": "Technology"
+    },
+    {
+      "id": "59-ID",
+      "text": "operating system",
+      "coord": [
+        -5.127660274505615,
+        -15.890527725219727
+      ],
+      "color": "#F6515B",
+      "group": "Technology"
+    },
+    {
+      "id": "60-ID",
+      "text": "computer network",
+      "coord": [
+        2.936262369155884,
+        -18.692461013793945
+      ],
+      "color": "#F6515B",
+      "group": "Technology"
+    },
+    {
+      "id": "61-ID",
+      "text": "algorithm",
+      "coord": [
+        11.899015426635742,
+        -15.998332023620605
+      ],
+      "color": "#F6515B",
+      "group": "Technology"
+    },
+    {
+      "id": "62-ID",
+      "text": "encryption",
+      "coord": [
+        -2.4238121509552,
+        -21.484455108642578
+      ],
+      "color": "#F6515B",
+      "group": "Technology"
+    },
+    {
+      "id": "63-ID",
+      "text": "blockchain",
+      "coord": [
+        13.231626510620117,
+        -8.829424858093262
+      ],
+      "color": "#F6515B",
+      "group": "Technology"
+    },
+    {
+      "id": "64-ID",
+      "text": "internet of things",
+      "coord": [
+        -0.7982164621353149,
+        -18.44689178466797
+      ],
+      "color": "#F6515B",
+      "group": "Technology"
+    },
+    {
+      "id": "65-ID",
+      "text": "virtual reality",
+      "coord": [
+        1.559641718864441,
+        -11.221220016479492
+      ],
+      "color": "#F6515B",
+      "group": "Technology"
+    },
+    {
+      "id": "66-ID",
+      "text": "augmented reality",
+      "coord": [
+        2.364074468612671,
+        -11.914382934570312
+      ],
+      "color": "#F6515B",
+      "group": "Technology"
+    },
+    {
+      "id": "67-ID",
+      "text": "robotics",
+      "coord": [
+        1.3643467426300049,
+        -14.252683639526367
+      ],
+      "color": "#F6515B",
+      "group": "Technology"
+    },
+    {
+      "id": "68-ID",
+      "text": "quantum computing",
+      "coord": [
+        8.695833206176758,
+        -9.706657409667969
+      ],
+      "color": "#F6515B",
+      "group": "Technology"
+    },
+    {
+      "id": "69-ID",
+      "text": "data science",
+      "coord": [
+        9.045845031738281,
+        -22.424285888671875
+      ],
+      "color": "#F6515B",
+      "group": "Technology"
+    },
+    {
+      "id": "70-ID",
+      "text": "neural network",
+      "coord": [
+        4.745577335357666,
+        -17.505762100219727
+      ],
+      "color": "#F6515B",
+      "group": "Technology"
+    },
+    {
+      "id": "71-ID",
+      "text": "deep learning",
+      "coord": [
+        6.343374252319336,
+        -17.080955505371094
+      ],
+      "color": "#F6515B",
+      "group": "Technology"
+    },
+    {
+      "id": "72-ID",
+      "text": "natural language processing",
+      "coord": [
+        8.717835426330566,
+        -16.74127197265625
+      ],
+      "color": "#F6515B",
+      "group": "Technology"
+    },
+    {
+      "id": "73-ID",
+      "text": "computer vision",
+      "coord": [
+        -1.5498442649841309,
+        -11.10354232788086
+      ],
+      "color": "#F6515B",
+      "group": "Technology"
+    },
+    {
+      "id": "74-ID",
+      "text": "server",
+      "coord": [
+        0.3200915455818176,
+        16.05183982849121
+      ],
+      "color": "#F6515B",
+      "group": "Technology"
+    },
+    {
+      "id": "75-ID",
+      "text": "router",
+      "coord": [
+        1.8824257850646973,
+        -19.89644432067871
+      ],
+      "color": "#F6515B",
+      "group": "Technology"
+    },
+    {
+      "id": "76-ID",
+      "text": "pizza",
+      "coord": [
+        3.334003210067749,
+        32.150299072265625
+      ],
+      "color": "#480355",
+      "group": "Food"
+    },
+    {
+      "id": "77-ID",
+      "text": "burger",
+      "coord": [
+        4.175444602966309,
+        34.35707092285156
+      ],
+      "color": "#480355",
+      "group": "Food"
+    },
+    {
+      "id": "78-ID",
+      "text": "pasta",
+      "coord": [
+        2.43666410446167,
+        29.433122634887695
+      ],
+      "color": "#480355",
+      "group": "Food"
+    },
+    {
+      "id": "79-ID",
+      "text": "french fries",
+      "coord": [
+        -3.5841822624206543,
+        35.85124969482422
+      ],
+      "color": "#480355",
+      "group": "Food"
+    },
+    {
+      "id": "80-ID",
+      "text": "noodles",
+      "coord": [
+        1.948631763458252,
+        28.45799446105957
+      ],
+      "color": "#480355",
+      "group": "Food"
+    },
+    {
+      "id": "81-ID",
+      "text": "sandwich",
+      "coord": [
+        5.663249969482422,
+        33.45158767700195
+      ],
+      "color": "#480355",
+      "group": "Food"
+    },
+    {
+      "id": "82-ID",
+      "text": "fried rice",
+      "coord": [
+        -3.5616862773895264,
+        33.737186431884766
+      ],
+      "color": "#480355",
+      "group": "Food"
+    },
+    {
+      "id": "83-ID",
+      "text": "sushi",
+      "coord": [
+        -0.10602953284978867,
+        34.64274978637695
+      ],
+      "color": "#480355",
+      "group": "Food"
+    },
+    {
+      "id": "84-ID",
+      "text": "tacos",
+      "coord": [
+        -1.0177161693572998,
+        38.5142936706543
+      ],
+      "color": "#480355",
+      "group": "Food"
+    },
+    {
+      "id": "85-ID",
+      "text": "salad",
+      "coord": [
+        0.29239144921302795,
+        30.580116271972656
+      ],
+      "color": "#480355",
+      "group": "Food"
+    },
+    {
+      "id": "86-ID",
+      "text": "steak",
+      "coord": [
+        2.3069558143615723,
+        36.251365661621094
+      ],
+      "color": "#480355",
+      "group": "Food"
+    },
+    {
+      "id": "87-ID",
+      "text": "seafood",
+      "coord": [
+        1.0517977476119995,
+        35.887901306152344
+      ],
+      "color": "#480355",
+      "group": "Food"
+    },
+    {
+      "id": "88-ID",
+      "text": "soup",
+      "coord": [
+        0.22194913029670715,
+        28.140640258789062
+      ],
+      "color": "#480355",
+      "group": "Food"
+    },
+    {
+      "id": "89-ID",
+      "text": "curry",
+      "coord": [
+        -2.0284736156463623,
+        28.17471694946289
+      ],
+      "color": "#480355",
+      "group": "Food"
+    },
+    {
+      "id": "90-ID",
+      "text": "dumplings",
+      "coord": [
+        -4.352744102478027,
+        30.47892189025879
+      ],
+      "color": "#480355",
+      "group": "Food"
+    },
+    {
+      "id": "91-ID",
+      "text": "omelette",
+      "coord": [
+        10.177021026611328,
+        35.12886428833008
+      ],
+      "color": "#480355",
+      "group": "Food"
+    },
+    {
+      "id": "92-ID",
+      "text": "pancakes",
+      "coord": [
+        10.456294059753418,
+        30.146270751953125
+      ],
+      "color": "#480355",
+      "group": "Food"
+    },
+    {
+      "id": "93-ID",
+      "text": "waffles",
+      "coord": [
+        10.704134941101074,
+        31.38922119140625
+      ],
+      "color": "#480355",
+      "group": "Food"
+    },
+    {
+      "id": "94-ID",
+      "text": "cereal",
+      "coord": [
+        8.869535446166992,
+        32.218238830566406
+      ],
+      "color": "#480355",
+      "group": "Food"
+    },
+    {
+      "id": "95-ID",
+      "text": "yogurt",
+      "coord": [
+        8.791329383850098,
+        35.61983108520508
+      ],
+      "color": "#480355",
+      "group": "Food"
+    },
+    {
+      "id": "96-ID",
+      "text": "cheese",
+      "coord": [
+        5.228106498718262,
+        28.470779418945312
+      ],
+      "color": "#480355",
+      "group": "Food"
+    },
+    {
+      "id": "97-ID",
+      "text": "bread",
+      "coord": [
+        7.20793342590332,
+        33.13875198364258
+      ],
+      "color": "#480355",
+      "group": "Food"
+    },
+    {
+      "id": "98-ID",
+      "text": "butter",
+      "coord": [
+        8.60645866394043,
+        28.702726364135742
+      ],
+      "color": "#480355",
+      "group": "Food"
+    },
+    {
+      "id": "99-ID",
+      "text": "rice",
+      "coord": [
+        -3.316075563430786,
+        32.76824951171875
+      ],
+      "color": "#480355",
+      "group": "Food"
+    },
+    {
+      "id": "100-ID",
+      "text": "beans",
+      "coord": [
+        -5.873114109039307,
+        28.479217529296875
+      ],
+      "color": "#480355",
+      "group": "Food"
+    },
+    {
+      "id": "101-ID",
+      "text": "axiom",
+      "coord": [
+        31.435197830200195,
+        -16.818140029907227
+      ],
+      "color": "#482728",
+      "group": "Mathematics"
+    },
+    {
+      "id": "102-ID",
+      "text": "theorem",
+      "coord": [
+        32.88713073730469,
+        -18.398096084594727
+      ],
+      "color": "#482728",
+      "group": "Mathematics"
+    },
+    {
+      "id": "103-ID",
+      "text": "asymptote",
+      "coord": [
+        36.204063415527344,
+        -18.02114486694336
+      ],
+      "color": "#482728",
+      "group": "Mathematics"
+    },
+    {
+      "id": "104-ID",
+      "text": "probability",
+      "coord": [
+        11.27602481842041,
+        -27.427928924560547
+      ],
+      "color": "#482728",
+      "group": "Mathematics"
+    },
+    {
+      "id": "105-ID",
+      "text": "statistics",
+      "coord": [
+        10.056598663330078,
+        -27.288808822631836
+      ],
+      "color": "#482728",
+      "group": "Mathematics"
+    },
+    {
+      "id": "106-ID",
+      "text": "calculus",
+      "coord": [
+        27.25802230834961,
+        -21.0039119720459
+      ],
+      "color": "#482728",
+      "group": "Mathematics"
+    },
+    {
+      "id": "107-ID",
+      "text": "matrix",
+      "coord": [
+        18.639057159423828,
+        -16.994413375854492
+      ],
+      "color": "#482728",
+      "group": "Mathematics"
+    },
+    {
+      "id": "108-ID",
+      "text": "derivative",
+      "coord": [
+        26.84054183959961,
+        -22.554914474487305
+      ],
+      "color": "#482728",
+      "group": "Mathematics"
+    },
+    {
+      "id": "109-ID",
+      "text": "integral",
+      "coord": [
+        29.656261444091797,
+        -22.797462463378906
+      ],
+      "color": "#482728",
+      "group": "Mathematics"
+    },
+    {
+      "id": "110-ID",
+      "text": "geometry",
+      "coord": [
+        23.50369644165039,
+        -20.57829475402832
+      ],
+      "color": "#482728",
+      "group": "Mathematics"
+    },
+    {
+      "id": "111-ID",
+      "text": "algebra",
+      "coord": [
+        29.827539443969727,
+        -17.26925277709961
+      ],
+      "color": "#482728",
+      "group": "Mathematics"
+    },
+    {
+      "id": "112-ID",
+      "text": "trigonometry",
+      "coord": [
+        24.7127685546875,
+        -19.777515411376953
+      ],
+      "color": "#482728",
+      "group": "Mathematics"
+    },
+    {
+      "id": "113-ID",
+      "text": "logarithm",
+      "coord": [
+        7.601460933685303,
+        -26.134990692138672
+      ],
+      "color": "#482728",
+      "group": "Mathematics"
+    },
+    {
+      "id": "114-ID",
+      "text": "exponent",
+      "coord": [
+        25.756134033203125,
+        -15.001564025878906
+      ],
+      "color": "#482728",
+      "group": "Mathematics"
+    },
+    {
+      "id": "115-ID",
+      "text": "fraction",
+      "coord": [
+        24.44523811340332,
+        -11.784414291381836
+      ],
+      "color": "#482728",
+      "group": "Mathematics"
+    },
+    {
+      "id": "116-ID",
+      "text": "decimal",
+      "coord": [
+        24.705183029174805,
+        -13.29155445098877
+      ],
+      "color": "#482728",
+      "group": "Mathematics"
+    },
+    {
+      "id": "117-ID",
+      "text": "percentage",
+      "coord": [
+        23.412378311157227,
+        -10.717323303222656
+      ],
+      "color": "#482728",
+      "group": "Mathematics"
+    },
+    {
+      "id": "118-ID",
+      "text": "equation",
+      "coord": [
+        27.831863403320312,
+        -19.110435485839844
+      ],
+      "color": "#482728",
+      "group": "Mathematics"
+    },
+    {
+      "id": "119-ID",
+      "text": "inequality",
+      "coord": [
+        34.0833625793457,
+        -19.175037384033203
+      ],
+      "color": "#482728",
+      "group": "Mathematics"
+    },
+    {
+      "id": "120-ID",
+      "text": "function",
+      "coord": [
+        30.169607162475586,
+        -24.715600967407227
+      ],
+      "color": "#482728",
+      "group": "Mathematics"
+    },
+    {
+      "id": "121-ID",
+      "text": "graph",
+      "coord": [
+        6.452895164489746,
+        -25.216567993164062
+      ],
+      "color": "#482728",
+      "group": "Mathematics"
+    },
+    {
+      "id": "122-ID",
+      "text": "vector",
+      "coord": [
+        18.890180587768555,
+        -18.122344970703125
+      ],
+      "color": "#482728",
+      "group": "Mathematics"
+    },
+    {
+      "id": "123-ID",
+      "text": "scalar",
+      "coord": [
+        17.451940536499023,
+        -21.604408264160156
+      ],
+      "color": "#482728",
+      "group": "Mathematics"
+    },
+    {
+      "id": "124-ID",
+      "text": "permutation",
+      "coord": [
+        32.193443298339844,
+        -14.678268432617188
+      ],
+      "color": "#482728",
+      "group": "Mathematics"
+    },
+    {
+      "id": "125-ID",
+      "text": "combination",
+      "coord": [
+        33.23383331298828,
+        -4.116830825805664
+      ],
+      "color": "#482728",
+      "group": "Mathematics"
+    },
+    {
+      "id": "126-ID",
+      "text": "zoology",
+      "coord": [
+        -20.46800422668457,
+        -5.95585823059082
+      ],
+      "color": "#140D4F",
+      "group": "Biology"
+    },
+    {
+      "id": "127-ID",
+      "text": "botany",
+      "coord": [
+        2.7608630657196045,
+        6.118784427642822
+      ],
+      "color": "#140D4F",
+      "group": "Biology"
+    },
+    {
+      "id": "128-ID",
+      "text": "cell",
+      "coord": [
+        1.0651450157165527,
+        -1.3181586265563965
+      ],
+      "color": "#140D4F",
+      "group": "Biology"
+    },
+    {
+      "id": "129-ID",
+      "text": "mitochondria",
+      "coord": [
+        5.844348430633545,
+        2.325249433517456
+      ],
+      "color": "#140D4F",
+      "group": "Biology"
+    },
+    {
+      "id": "130-ID",
+      "text": "photosynthesis",
+      "coord": [
+        5.492849826812744,
+        3.874540090560913
+      ],
+      "color": "#140D4F",
+      "group": "Biology"
+    },
+    {
+      "id": "131-ID",
+      "text": "dna",
+      "coord": [
+        -12.93023681640625,
+        -11.392328262329102
+      ],
+      "color": "#140D4F",
+      "group": "Biology"
+    },
+    {
+      "id": "132-ID",
+      "text": "enzyme",
+      "coord": [
+        22.711299896240234,
+        13.54749870300293
+      ],
+      "color": "#140D4F",
+      "group": "Biology"
+    },
+    {
+      "id": "133-ID",
+      "text": "genetics",
+      "coord": [
+        -14.61400032043457,
+        -11.178995132446289
+      ],
+      "color": "#140D4F",
+      "group": "Biology"
+    },
+    {
+      "id": "134-ID",
+      "text": "evolution",
+      "coord": [
+        -17.851408004760742,
+        -8.869997024536133
+      ],
+      "color": "#140D4F",
+      "group": "Biology"
+    },
+    {
+      "id": "135-ID",
+      "text": "cell membrane",
+      "coord": [
+        1.9682466983795166,
+        -0.4244901239871979
+      ],
+      "color": "#140D4F",
+      "group": "Biology"
+    },
+    {
+      "id": "136-ID",
+      "text": "nucleus",
+      "coord": [
+        12.974315643310547,
+        -4.442221641540527
+      ],
+      "color": "#140D4F",
+      "group": "Biology"
+    },
+    {
+      "id": "137-ID",
+      "text": "cytoplasm",
+      "coord": [
+        3.4628734588623047,
+        0.19902193546295166
+      ],
+      "color": "#140D4F",
+      "group": "Biology"
+    },
+    {
+      "id": "138-ID",
+      "text": "ribosome",
+      "coord": [
+        5.689271450042725,
+        -2.1355857849121094
+      ],
+      "color": "#140D4F",
+      "group": "Biology"
+    },
+    {
+      "id": "139-ID",
+      "text": "protein",
+      "coord": [
+        21.478355407714844,
+        14.262685775756836
+      ],
+      "color": "#140D4F",
+      "group": "Biology"
+    },
+    {
+      "id": "140-ID",
+      "text": "chromosome",
+      "coord": [
+        -14.429628372192383,
+        -12.934578895568848
+      ],
+      "color": "#140D4F",
+      "group": "Biology"
+    },
+    {
+      "id": "141-ID",
+      "text": "gene",
+      "coord": [
+        -15.621459007263184,
+        -11.09055233001709
+      ],
+      "color": "#140D4F",
+      "group": "Biology"
+    },
+    {
+      "id": "142-ID",
+      "text": "rna",
+      "coord": [
+        6.401866436004639,
+        -3.2986745834350586
+      ],
+      "color": "#140D4F",
+      "group": "Biology"
+    },
+    {
+      "id": "143-ID",
+      "text": "virus",
+      "coord": [
+        -1.184280514717102,
+        12.383814811706543
+      ],
+      "color": "#140D4F",
+      "group": "Biology"
+    },
+    {
+      "id": "144-ID",
+      "text": "bacteria",
+      "coord": [
+        -1.6700317859649658,
+        10.267912864685059
+      ],
+      "color": "#140D4F",
+      "group": "Biology"
+    },
+    {
+      "id": "145-ID",
+      "text": "fungus",
+      "coord": [
+        -0.24799396097660065,
+        8.231694221496582
+      ],
+      "color": "#140D4F",
+      "group": "Biology"
+    },
+    {
+      "id": "146-ID",
+      "text": "algae",
+      "coord": [
+        4.275171756744385,
+        5.3904900550842285
+      ],
+      "color": "#140D4F",
+      "group": "Biology"
+    },
+    {
+      "id": "147-ID",
+      "text": "tissue",
+      "coord": [
+        -10.72260570526123,
+        13.988899230957031
+      ],
+      "color": "#140D4F",
+      "group": "Biology"
+    },
+    {
+      "id": "148-ID",
+      "text": "organ",
+      "coord": [
+        -12.127449989318848,
+        13.765084266662598
+      ],
+      "color": "#140D4F",
+      "group": "Biology"
+    },
+    {
+      "id": "149-ID",
+      "text": "organism",
+      "coord": [
+        -2.1404166221618652,
+        8.840614318847656
+      ],
+      "color": "#140D4F",
+      "group": "Biology"
+    },
+    {
+      "id": "150-ID",
+      "text": "species",
+      "coord": [
+        -19.65338134765625,
+        -6.93209171295166
+      ],
+      "color": "#140D4F",
+      "group": "Biology"
+    },
+    {
+      "id": "151-ID",
+      "text": "atom",
+      "coord": [
+        16.62738037109375,
+        -2.432365655899048
+      ],
+      "color": "#EE6352",
+      "group": "Chemistry"
+    },
+    {
+      "id": "152-ID",
+      "text": "valence electron",
+      "coord": [
+        16.436107635498047,
+        0.4793962240219116
+      ],
+      "color": "#EE6352",
+      "group": "Chemistry"
+    },
+    {
+      "id": "153-ID",
+      "text": "dilution",
+      "coord": [
+        28.035171508789062,
+        -2.6102523803710938
+      ],
+      "color": "#EE6352",
+      "group": "Chemistry"
+    },
+    {
+      "id": "154-ID",
+      "text": "citric acid",
+      "coord": [
+        29.78914451599121,
+        11.19479751586914
+      ],
+      "color": "#EE6352",
+      "group": "Chemistry"
+    },
+    {
+      "id": "155-ID",
+      "text": "sodium chloride",
+      "coord": [
+        16.849037170410156,
+        21.18205451965332
+      ],
+      "color": "#EE6352",
+      "group": "Chemistry"
+    },
+    {
+      "id": "156-ID",
+      "text": "sulfuric acid",
+      "coord": [
+        30.70734405517578,
+        10.034642219543457
+      ],
+      "color": "#EE6352",
+      "group": "Chemistry"
+    },
+    {
+      "id": "157-ID",
+      "text": "trichloromethane",
+      "coord": [
+        32.74725341796875,
+        1.0369428396224976
+      ],
+      "color": "#EE6352",
+      "group": "Chemistry"
+    },
+    {
+      "id": "158-ID",
+      "text": "van der waals force",
+      "coord": [
+        22.363611221313477,
+        -36.84196853637695
+      ],
+      "color": "#EE6352",
+      "group": "Chemistry"
+    },
+    {
+      "id": "159-ID",
+      "text": "molecule",
+      "coord": [
+        16.293575286865234,
+        -3.7080419063568115
+      ],
+      "color": "#EE6352",
+      "group": "Chemistry"
+    },
+    {
+      "id": "160-ID",
+      "text": "chemical reaction",
+      "coord": [
+        25.073612213134766,
+        11.820294380187988
+      ],
+      "color": "#EE6352",
+      "group": "Chemistry"
+    },
+    {
+      "id": "161-ID",
+      "text": "element",
+      "coord": [
+        18.119199752807617,
+        -1.5517027378082275
+      ],
+      "color": "#EE6352",
+      "group": "Chemistry"
+    },
+    {
+      "id": "162-ID",
+      "text": "compound",
+      "coord": [
+        31.868059158325195,
+        -0.3450177013874054
+      ],
+      "color": "#EE6352",
+      "group": "Chemistry"
+    },
+    {
+      "id": "163-ID",
+      "text": "mixture",
+      "coord": [
+        33.175811767578125,
+        -3.1032352447509766
+      ],
+      "color": "#EE6352",
+      "group": "Chemistry"
+    },
+    {
+      "id": "164-ID",
+      "text": "solution",
+      "coord": [
+        30.166526794433594,
+        -4.505984783172607
+      ],
+      "color": "#EE6352",
+      "group": "Chemistry"
+    },
+    {
+      "id": "165-ID",
+      "text": "solvent",
+      "coord": [
+        29.146696090698242,
+        -0.08469802141189575
+      ],
+      "color": "#EE6352",
+      "group": "Chemistry"
+    },
+    {
+      "id": "166-ID",
+      "text": "solute",
+      "coord": [
+        28.47425651550293,
+        -1.2429791688919067
+      ],
+      "color": "#EE6352",
+      "group": "Chemistry"
+    },
+    {
+      "id": "167-ID",
+      "text": "concentration",
+      "coord": [
+        27.348543167114258,
+        -6.596601486206055
+      ],
+      "color": "#EE6352",
+      "group": "Chemistry"
+    },
+    {
+      "id": "168-ID",
+      "text": "ph",
+      "coord": [
+        28.69261932373047,
+        8.41390323638916
+      ],
+      "color": "#EE6352",
+      "group": "Chemistry"
+    },
+    {
+      "id": "169-ID",
+      "text": "acid",
+      "coord": [
+        29.047948837280273,
+        9.714418411254883
+      ],
+      "color": "#EE6352",
+      "group": "Chemistry"
+    },
+    {
+      "id": "170-ID",
+      "text": "base",
+      "coord": [
+        12.351091384887695,
+        -23.004058837890625
+      ],
+      "color": "#EE6352",
+      "group": "Chemistry"
+    },
+    {
+      "id": "171-ID",
+      "text": "salt",
+      "coord": [
+        16.226585388183594,
+        21.89788055419922
+      ],
+      "color": "#EE6352",
+      "group": "Chemistry"
+    },
+    {
+      "id": "172-ID",
+      "text": "oxidation",
+      "coord": [
+        24.871488571166992,
+        14.15897274017334
+      ],
+      "color": "#EE6352",
+      "group": "Chemistry"
+    },
+    {
+      "id": "173-ID",
+      "text": "reduction",
+      "coord": [
+        26.168935775756836,
+        -8.48024845123291
+      ],
+      "color": "#EE6352",
+      "group": "Chemistry"
+    },
+    {
+      "id": "174-ID",
+      "text": "catalyst",
+      "coord": [
+        23.413209915161133,
+        11.183198928833008
+      ],
+      "color": "#EE6352",
+      "group": "Chemistry"
+    },
+    {
+      "id": "175-ID",
+      "text": "polymer",
+      "coord": [
+        28.10747718811035,
+        4.067624092102051
+      ],
+      "color": "#EE6352",
+      "group": "Chemistry"
+    },
+    {
+      "id": "176-ID",
+      "text": "velocity",
+      "coord": [
+        19.741525650024414,
+        -29.1495304107666
+      ],
+      "color": "#00FF00",
+      "group": "Physics"
+    },
+    {
+      "id": "177-ID",
+      "text": "acceleration",
+      "coord": [
+        19.367557525634766,
+        -27.764122009277344
+      ],
+      "color": "#00FF00",
+      "group": "Physics"
+    },
+    {
+      "id": "178-ID",
+      "text": "force",
+      "coord": [
+        22.329931259155273,
+        -35.92765426635742
+      ],
+      "color": "#00FF00",
+      "group": "Physics"
+    },
+    {
+      "id": "179-ID",
+      "text": "mass",
+      "coord": [
+        17.766271591186523,
+        -31.865978240966797
+      ],
+      "color": "#00FF00",
+      "group": "Physics"
+    },
+    {
+      "id": "180-ID",
+      "text": "density",
+      "coord": [
+        9.652440071105957,
+        -30.220550537109375
+      ],
+      "color": "#00FF00",
+      "group": "Physics"
+    },
+    {
+      "id": "181-ID",
+      "text": "volume",
+      "coord": [
+        9.301376342773438,
+        -31.4539737701416
+      ],
+      "color": "#00FF00",
+      "group": "Physics"
+    },
+    {
+      "id": "182-ID",
+      "text": "energy",
+      "coord": [
+        13.772847175598145,
+        4.621304512023926
+      ],
+      "color": "#00FF00",
+      "group": "Physics"
+    },
+    {
+      "id": "183-ID",
+      "text": "momentum",
+      "coord": [
+        19.3043155670166,
+        -30.442232131958008
+      ],
+      "color": "#00FF00",
+      "group": "Physics"
+    },
+    {
+      "id": "184-ID",
+      "text": "gravity",
+      "coord": [
+        20.99546241760254,
+        -24.197397232055664
+      ],
+      "color": "#00FF00",
+      "group": "Physics"
+    },
+    {
+      "id": "185-ID",
+      "text": "electromagnetism",
+      "coord": [
+        19.056970596313477,
+        3.7415499687194824
+      ],
+      "color": "#00FF00",
+      "group": "Physics"
+    },
+    {
+      "id": "186-ID",
+      "text": "quantum mechanics",
+      "coord": [
+        9.039475440979004,
+        -8.645506858825684
+      ],
+      "color": "#00FF00",
+      "group": "Physics"
+    },
+    {
+      "id": "187-ID",
+      "text": "relativity",
+      "coord": [
+        20.82999610900879,
+        -23.22356414794922
+      ],
+      "color": "#00FF00",
+      "group": "Physics"
+    },
+    {
+      "id": "188-ID",
+      "text": "thermodynamics",
+      "coord": [
+        9.454675674438477,
+        2.1239495277404785
+      ],
+      "color": "#00FF00",
+      "group": "Physics"
+    },
+    {
+      "id": "189-ID",
+      "text": "frequency",
+      "coord": [
+        -10.098097801208496,
+        -1.5845246315002441
+      ],
+      "color": "#00FF00",
+      "group": "Physics"
+    },
+    {
+      "id": "190-ID",
+      "text": "wavelength",
+      "coord": [
+        -4.095949172973633,
+        -8.569013595581055
+      ],
+      "color": "#00FF00",
+      "group": "Physics"
+    },
+    {
+      "id": "191-ID",
+      "text": "amplitude",
+      "coord": [
+        -9.100909233093262,
+        -2.744861125946045
+      ],
+      "color": "#00FF00",
+      "group": "Physics"
+    },
+    {
+      "id": "192-ID",
+      "text": "power",
+      "coord": [
+        14.703519821166992,
+        6.833430767059326
+      ],
+      "color": "#00FF00",
+      "group": "Physics"
+    },
+    {
+      "id": "193-ID",
+      "text": "work",
+      "coord": [
+        24.916526794433594,
+        -29.962244033813477
+      ],
+      "color": "#00FF00",
+      "group": "Physics"
+    },
+    {
+      "id": "194-ID",
+      "text": "kinetic energy",
+      "coord": [
+        12.363252639770508,
+        3.504505157470703
+      ],
+      "color": "#00FF00",
+      "group": "Physics"
+    },
+    {
+      "id": "195-ID",
+      "text": "potential energy",
+      "coord": [
+        12.7485933303833,
+        5.271688461303711
+      ],
+      "color": "#00FF00",
+      "group": "Physics"
+    },
+    {
+      "id": "196-ID",
+      "text": "nuclear physics",
+      "coord": [
+        12.212738990783691,
+        -3.633273124694824
+      ],
+      "color": "#00FF00",
+      "group": "Physics"
+    },
+    {
+      "id": "197-ID",
+      "text": "optics",
+      "coord": [
+        -3.2397360801696777,
+        -9.36640453338623
+      ],
+      "color": "#00FF00",
+      "group": "Physics"
+    },
+    {
+      "id": "198-ID",
+      "text": "magnetism",
+      "coord": [
+        19.963470458984375,
+        3.136957883834839
+      ],
+      "color": "#00FF00",
+      "group": "Physics"
+    },
+    {
+      "id": "199-ID",
+      "text": "electricity",
+      "coord": [
+        16.347843170166016,
+        5.479422092437744
+      ],
+      "color": "#00FF00",
+      "group": "Physics"
+    },
+    {
+      "id": "200-ID",
+      "text": "friction",
+      "coord": [
+        21.9599666595459,
+        -30.30374526977539
+      ],
+      "color": "#00FF00",
+      "group": "Physics"
+    }
+  ]
+}

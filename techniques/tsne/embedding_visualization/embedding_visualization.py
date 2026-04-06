@@ -7,6 +7,7 @@ import numpy as np
 
 from dotenv import load_dotenv
 
+from sklearn.decomposition import PCA
 from sklearn.preprocessing import StandardScaler
 from sklearn.manifold import TSNE
 
@@ -170,5 +171,22 @@ def reduce_with_tsne(vectors: np.ndarray, n_components: int = 2) -> np.ndarray:
     coords_2d = tsne.fit_transform(vectors_scaled)
 
     print("t-SNE complete!\n")
+
+    return coords_2d
+
+
+def reduce_with_pca(vectors: np.ndarray, n_compontents: int = 2) -> np.ndarray:
+    print("Running PCA")
+
+    scalar = StandardScaler()
+    vectors_scaled = scalar.fit_transform(vectors)
+
+    pca = PCA(
+        n_components=n_compontents,
+    )
+
+    coords_2d = pca.fit_transform(vectors_scaled)
+
+    print("PCA complete!\n")
 
     return coords_2d

@@ -1,0 +1,2008 @@
+{
+  "session_id": "20260313_075853",
+  "timestamp": "2026-03-13T08:00:03.336143",
+  "dimension": 2,
+  "total_items": 200,
+  "items": [
+    {
+      "id": "1-ID",
+      "text": "novel",
+      "coord": [
+        11.122536659240723,
+        20.257061004638672
+      ],
+      "color": "#E67E22",
+      "group": "Literature"
+    },
+    {
+      "id": "2-ID",
+      "text": "poetry",
+      "coord": [
+        -2.1776773929595947,
+        12.2014799118042
+      ],
+      "color": "#E67E22",
+      "group": "Literature"
+    },
+    {
+      "id": "3-ID",
+      "text": "drama",
+      "coord": [
+        15.834830284118652,
+        10.519126892089844
+      ],
+      "color": "#E67E22",
+      "group": "Literature"
+    },
+    {
+      "id": "4-ID",
+      "text": "author",
+      "coord": [
+        15.169105529785156,
+        30.70906639099121
+      ],
+      "color": "#E67E22",
+      "group": "Literature"
+    },
+    {
+      "id": "5-ID",
+      "text": "metaphor",
+      "coord": [
+        30.00436019897461,
+        10.377049446105957
+      ],
+      "color": "#E67E22",
+      "group": "Literature"
+    },
+    {
+      "id": "6-ID",
+      "text": "narrative",
+      "coord": [
+        12.711502075195312,
+        24.054256439208984
+      ],
+      "color": "#E67E22",
+      "group": "Literature"
+    },
+    {
+      "id": "7-ID",
+      "text": "protagonist",
+      "coord": [
+        4.87582540512085,
+        32.99130630493164
+      ],
+      "color": "#E67E22",
+      "group": "Literature"
+    },
+    {
+      "id": "8-ID",
+      "text": "antagonist",
+      "coord": [
+        2.9855453968048096,
+        32.537269592285156
+      ],
+      "color": "#E67E22",
+      "group": "Literature"
+    },
+    {
+      "id": "9-ID",
+      "text": "theme",
+      "coord": [
+        25.751567840576172,
+        13.508161544799805
+      ],
+      "color": "#E67E22",
+      "group": "Literature"
+    },
+    {
+      "id": "10-ID",
+      "text": "plot",
+      "coord": [
+        16.326425552368164,
+        16.97966194152832
+      ],
+      "color": "#E67E22",
+      "group": "Literature"
+    },
+    {
+      "id": "11-ID",
+      "text": "setting",
+      "coord": [
+        22.62485694885254,
+        9.49073600769043
+      ],
+      "color": "#E67E22",
+      "group": "Literature"
+    },
+    {
+      "id": "12-ID",
+      "text": "character",
+      "coord": [
+        6.008264064788818,
+        33.62519073486328
+      ],
+      "color": "#E67E22",
+      "group": "Literature"
+    },
+    {
+      "id": "13-ID",
+      "text": "dialogue",
+      "coord": [
+        18.02450180053711,
+        5.908536434173584
+      ],
+      "color": "#E67E22",
+      "group": "Literature"
+    },
+    {
+      "id": "14-ID",
+      "text": "symbolism",
+      "coord": [
+        29.097448348999023,
+        11.815653800964355
+      ],
+      "color": "#E67E22",
+      "group": "Literature"
+    },
+    {
+      "id": "15-ID",
+      "text": "irony",
+      "coord": [
+        34.290428161621094,
+        10.683321952819824
+      ],
+      "color": "#E67E22",
+      "group": "Literature"
+    },
+    {
+      "id": "16-ID",
+      "text": "foreshadowing",
+      "coord": [
+        26.172927856445312,
+        5.51436710357666
+      ],
+      "color": "#E67E22",
+      "group": "Literature"
+    },
+    {
+      "id": "17-ID",
+      "text": "flashback",
+      "coord": [
+        25.32308578491211,
+        4.1036601066589355
+      ],
+      "color": "#E67E22",
+      "group": "Literature"
+    },
+    {
+      "id": "18-ID",
+      "text": "genre",
+      "coord": [
+        7.594151496887207,
+        14.4032564163208
+      ],
+      "color": "#E67E22",
+      "group": "Literature"
+    },
+    {
+      "id": "19-ID",
+      "text": "fiction",
+      "coord": [
+        9.463794708251953,
+        19.973217010498047
+      ],
+      "color": "#E67E22",
+      "group": "Literature"
+    },
+    {
+      "id": "20-ID",
+      "text": "nonfiction",
+      "coord": [
+        8.484477043151855,
+        22.448301315307617
+      ],
+      "color": "#E67E22",
+      "group": "Literature"
+    },
+    {
+      "id": "21-ID",
+      "text": "biography",
+      "coord": [
+        10.47518539428711,
+        28.585430145263672
+      ],
+      "color": "#E67E22",
+      "group": "Literature"
+    },
+    {
+      "id": "22-ID",
+      "text": "autobiography",
+      "coord": [
+        10.52613639831543,
+        27.194469451904297
+      ],
+      "color": "#E67E22",
+      "group": "Literature"
+    },
+    {
+      "id": "23-ID",
+      "text": "essay",
+      "coord": [
+        14.294977188110352,
+        27.696563720703125
+      ],
+      "color": "#E67E22",
+      "group": "Literature"
+    },
+    {
+      "id": "24-ID",
+      "text": "short story",
+      "coord": [
+        13.56299877166748,
+        22.698244094848633
+      ],
+      "color": "#E67E22",
+      "group": "Literature"
+    },
+    {
+      "id": "25-ID",
+      "text": "mythology",
+      "coord": [
+        30.208417892456055,
+        13.74411678314209
+      ],
+      "color": "#E67E22",
+      "group": "Literature"
+    },
+    {
+      "id": "26-ID",
+      "text": "pizza",
+      "coord": [
+        -34.030364990234375,
+        -20.430858612060547
+      ],
+      "color": "#480355",
+      "group": "Food"
+    },
+    {
+      "id": "27-ID",
+      "text": "burger",
+      "coord": [
+        -32.78267288208008,
+        -22.88928985595703
+      ],
+      "color": "#480355",
+      "group": "Food"
+    },
+    {
+      "id": "28-ID",
+      "text": "pasta",
+      "coord": [
+        -36.12666702270508,
+        -17.25408935546875
+      ],
+      "color": "#480355",
+      "group": "Food"
+    },
+    {
+      "id": "29-ID",
+      "text": "french fries",
+      "coord": [
+        -28.75444984436035,
+        -24.80504608154297
+      ],
+      "color": "#480355",
+      "group": "Food"
+    },
+    {
+      "id": "30-ID",
+      "text": "noodles",
+      "coord": [
+        -37.370033264160156,
+        -16.635663986206055
+      ],
+      "color": "#480355",
+      "group": "Food"
+    },
+    {
+      "id": "31-ID",
+      "text": "sandwich",
+      "coord": [
+        -34.54288864135742,
+        -24.133419036865234
+      ],
+      "color": "#480355",
+      "group": "Food"
+    },
+    {
+      "id": "32-ID",
+      "text": "fried rice",
+      "coord": [
+        -41.789669036865234,
+        -19.048259735107422
+      ],
+      "color": "#480355",
+      "group": "Food"
+    },
+    {
+      "id": "33-ID",
+      "text": "sushi",
+      "coord": [
+        -31.184614181518555,
+        -16.051639556884766
+      ],
+      "color": "#480355",
+      "group": "Food"
+    },
+    {
+      "id": "34-ID",
+      "text": "tacos",
+      "coord": [
+        -27.868751525878906,
+        -21.40467071533203
+      ],
+      "color": "#480355",
+      "group": "Food"
+    },
+    {
+      "id": "35-ID",
+      "text": "salad",
+      "coord": [
+        -34.645870208740234,
+        -14.25048828125
+      ],
+      "color": "#480355",
+      "group": "Food"
+    },
+    {
+      "id": "36-ID",
+      "text": "steak",
+      "coord": [
+        -30.98378562927246,
+        -19.386621475219727
+      ],
+      "color": "#480355",
+      "group": "Food"
+    },
+    {
+      "id": "37-ID",
+      "text": "seafood",
+      "coord": [
+        -30.59114646911621,
+        -17.835474014282227
+      ],
+      "color": "#480355",
+      "group": "Food"
+    },
+    {
+      "id": "38-ID",
+      "text": "soup",
+      "coord": [
+        -37.36198806762695,
+        -14.467403411865234
+      ],
+      "color": "#480355",
+      "group": "Food"
+    },
+    {
+      "id": "39-ID",
+      "text": "curry",
+      "coord": [
+        -40.32370376586914,
+        -15.23138427734375
+      ],
+      "color": "#480355",
+      "group": "Food"
+    },
+    {
+      "id": "40-ID",
+      "text": "dumplings",
+      "coord": [
+        -43.6337890625,
+        -16.72852325439453
+      ],
+      "color": "#480355",
+      "group": "Food"
+    },
+    {
+      "id": "41-ID",
+      "text": "omelette",
+      "coord": [
+        -38.669708251953125,
+        -28.350927352905273
+      ],
+      "color": "#480355",
+      "group": "Food"
+    },
+    {
+      "id": "42-ID",
+      "text": "pancakes",
+      "coord": [
+        -40.95869064331055,
+        -25.6729793548584
+      ],
+      "color": "#480355",
+      "group": "Food"
+    },
+    {
+      "id": "43-ID",
+      "text": "waffles",
+      "coord": [
+        -42.52256774902344,
+        -25.543148040771484
+      ],
+      "color": "#480355",
+      "group": "Food"
+    },
+    {
+      "id": "44-ID",
+      "text": "cereal",
+      "coord": [
+        -42.655330657958984,
+        -23.10854148864746
+      ],
+      "color": "#480355",
+      "group": "Food"
+    },
+    {
+      "id": "45-ID",
+      "text": "yogurt",
+      "coord": [
+        -36.90400695800781,
+        -27.98244857788086
+      ],
+      "color": "#480355",
+      "group": "Food"
+    },
+    {
+      "id": "46-ID",
+      "text": "cheese",
+      "coord": [
+        -37.436134338378906,
+        -20.746339797973633
+      ],
+      "color": "#480355",
+      "group": "Food"
+    },
+    {
+      "id": "47-ID",
+      "text": "bread",
+      "coord": [
+        -36.40534591674805,
+        -24.93466567993164
+      ],
+      "color": "#480355",
+      "group": "Food"
+    },
+    {
+      "id": "48-ID",
+      "text": "butter",
+      "coord": [
+        -38.770660400390625,
+        -23.800508499145508
+      ],
+      "color": "#480355",
+      "group": "Food"
+    },
+    {
+      "id": "49-ID",
+      "text": "rice",
+      "coord": [
+        -42.962181091308594,
+        -19.369266510009766
+      ],
+      "color": "#480355",
+      "group": "Food"
+    },
+    {
+      "id": "50-ID",
+      "text": "beans",
+      "coord": [
+        -33.33910369873047,
+        -27.080446243286133
+      ],
+      "color": "#480355",
+      "group": "Food"
+    },
+    {
+      "id": "51-ID",
+      "text": "movie",
+      "coord": [
+        23.77313995361328,
+        23.197954177856445
+      ],
+      "color": "#9B59B6",
+      "group": "Film"
+    },
+    {
+      "id": "52-ID",
+      "text": "cinema",
+      "coord": [
+        21.958059310913086,
+        22.598478317260742
+      ],
+      "color": "#9B59B6",
+      "group": "Film"
+    },
+    {
+      "id": "53-ID",
+      "text": "film",
+      "coord": [
+        22.342002868652344,
+        24.58076286315918
+      ],
+      "color": "#9B59B6",
+      "group": "Film"
+    },
+    {
+      "id": "54-ID",
+      "text": "director",
+      "coord": [
+        19.17821502685547,
+        29.748645782470703
+      ],
+      "color": "#9B59B6",
+      "group": "Film"
+    },
+    {
+      "id": "55-ID",
+      "text": "producer",
+      "coord": [
+        18.726259231567383,
+        33.212921142578125
+      ],
+      "color": "#9B59B6",
+      "group": "Film"
+    },
+    {
+      "id": "56-ID",
+      "text": "actor",
+      "coord": [
+        9.132308006286621,
+        36.80657958984375
+      ],
+      "color": "#9B59B6",
+      "group": "Film"
+    },
+    {
+      "id": "57-ID",
+      "text": "actress",
+      "coord": [
+        10.064353942871094,
+        37.55414962768555
+      ],
+      "color": "#9B59B6",
+      "group": "Film"
+    },
+    {
+      "id": "58-ID",
+      "text": "screenwriter",
+      "coord": [
+        17.60780906677246,
+        31.07488250732422
+      ],
+      "color": "#9B59B6",
+      "group": "Film"
+    },
+    {
+      "id": "59-ID",
+      "text": "cinematographer",
+      "coord": [
+        21.461694717407227,
+        30.847225189208984
+      ],
+      "color": "#9B59B6",
+      "group": "Film"
+    },
+    {
+      "id": "60-ID",
+      "text": "editor",
+      "coord": [
+        15.858753204345703,
+        32.726478576660156
+      ],
+      "color": "#9B59B6",
+      "group": "Film"
+    },
+    {
+      "id": "61-ID",
+      "text": "scene",
+      "coord": [
+        21.589149475097656,
+        8.403871536254883
+      ],
+      "color": "#9B59B6",
+      "group": "Film"
+    },
+    {
+      "id": "62-ID",
+      "text": "shot",
+      "coord": [
+        -30.4573917388916,
+        12.645042419433594
+      ],
+      "color": "#9B59B6",
+      "group": "Film"
+    },
+    {
+      "id": "63-ID",
+      "text": "sequence",
+      "coord": [
+        24.051321029663086,
+        2.5906765460968018
+      ],
+      "color": "#9B59B6",
+      "group": "Film"
+    },
+    {
+      "id": "64-ID",
+      "text": "soundtrack",
+      "coord": [
+        25.0267276763916,
+        15.82673454284668
+      ],
+      "color": "#9B59B6",
+      "group": "Film"
+    },
+    {
+      "id": "65-ID",
+      "text": "score",
+      "coord": [
+        26.201297760009766,
+        17.286293029785156
+      ],
+      "color": "#9B59B6",
+      "group": "Film"
+    },
+    {
+      "id": "66-ID",
+      "text": "genre",
+      "coord": [
+        7.594151496887207,
+        14.4032564163208
+      ],
+      "color": "#9B59B6",
+      "group": "Film"
+    },
+    {
+      "id": "67-ID",
+      "text": "comedy",
+      "coord": [
+        26.747705459594727,
+        23.86172866821289
+      ],
+      "color": "#9B59B6",
+      "group": "Film"
+    },
+    {
+      "id": "68-ID",
+      "text": "drama",
+      "coord": [
+        16.37626838684082,
+        11.539629936218262
+      ],
+      "color": "#9B59B6",
+      "group": "Film"
+    },
+    {
+      "id": "69-ID",
+      "text": "horror",
+      "coord": [
+        19.586536407470703,
+        20.078535079956055
+      ],
+      "color": "#9B59B6",
+      "group": "Film"
+    },
+    {
+      "id": "70-ID",
+      "text": "thriller",
+      "coord": [
+        17.694917678833008,
+        18.25498390197754
+      ],
+      "color": "#9B59B6",
+      "group": "Film"
+    },
+    {
+      "id": "71-ID",
+      "text": "action",
+      "coord": [
+        14.167865753173828,
+        -11.683016777038574
+      ],
+      "color": "#9B59B6",
+      "group": "Film"
+    },
+    {
+      "id": "72-ID",
+      "text": "adventure",
+      "coord": [
+        9.311858177185059,
+        -16.499452590942383
+      ],
+      "color": "#9B59B6",
+      "group": "Film"
+    },
+    {
+      "id": "73-ID",
+      "text": "sci-fi",
+      "coord": [
+        10.206307411193848,
+        15.988607406616211
+      ],
+      "color": "#9B59B6",
+      "group": "Film"
+    },
+    {
+      "id": "74-ID",
+      "text": "fantasy",
+      "coord": [
+        7.3767409324646,
+        18.760746002197266
+      ],
+      "color": "#9B59B6",
+      "group": "Film"
+    },
+    {
+      "id": "75-ID",
+      "text": "documentary",
+      "coord": [
+        20.982208251953125,
+        26.228309631347656
+      ],
+      "color": "#9B59B6",
+      "group": "Film"
+    },
+    {
+      "id": "76-ID",
+      "text": "fairy",
+      "coord": [
+        2.2280917167663574,
+        -26.809024810791016
+      ],
+      "color": "#8B4513",
+      "group": "Folklore"
+    },
+    {
+      "id": "77-ID",
+      "text": "elf",
+      "coord": [
+        0.30947571992874146,
+        -27.105735778808594
+      ],
+      "color": "#8B4513",
+      "group": "Folklore"
+    },
+    {
+      "id": "78-ID",
+      "text": "dwarf",
+      "coord": [
+        -1.473524808883667,
+        -28.945987701416016
+      ],
+      "color": "#8B4513",
+      "group": "Folklore"
+    },
+    {
+      "id": "79-ID",
+      "text": "gnome",
+      "coord": [
+        -1.0101637840270996,
+        -31.099666595458984
+      ],
+      "color": "#8B4513",
+      "group": "Folklore"
+    },
+    {
+      "id": "80-ID",
+      "text": "troll",
+      "coord": [
+        1.5372365713119507,
+        -30.607879638671875
+      ],
+      "color": "#8B4513",
+      "group": "Folklore"
+    },
+    {
+      "id": "81-ID",
+      "text": "ogre",
+      "coord": [
+        -2.018584966659546,
+        -23.186447143554688
+      ],
+      "color": "#8B4513",
+      "group": "Folklore"
+    },
+    {
+      "id": "82-ID",
+      "text": "giant",
+      "coord": [
+        -3.713078260421753,
+        -29.583980560302734
+      ],
+      "color": "#8B4513",
+      "group": "Folklore"
+    },
+    {
+      "id": "83-ID",
+      "text": "goblin",
+      "coord": [
+        -2.481682777404785,
+        -25.90169906616211
+      ],
+      "color": "#8B4513",
+      "group": "Folklore"
+    },
+    {
+      "id": "84-ID",
+      "text": "orc",
+      "coord": [
+        -0.03548261523246765,
+        -22.341978073120117
+      ],
+      "color": "#8B4513",
+      "group": "Folklore"
+    },
+    {
+      "id": "85-ID",
+      "text": "hobbit",
+      "coord": [
+        5.794851303100586,
+        -19.401762008666992
+      ],
+      "color": "#8B4513",
+      "group": "Folklore"
+    },
+    {
+      "id": "86-ID",
+      "text": "wizard",
+      "coord": [
+        8.601184844970703,
+        -24.902734756469727
+      ],
+      "color": "#8B4513",
+      "group": "Folklore"
+    },
+    {
+      "id": "87-ID",
+      "text": "witch",
+      "coord": [
+        8.15242862701416,
+        -27.28050994873047
+      ],
+      "color": "#8B4513",
+      "group": "Folklore"
+    },
+    {
+      "id": "88-ID",
+      "text": "sorcerer",
+      "coord": [
+        10.683173179626465,
+        -25.693485260009766
+      ],
+      "color": "#8B4513",
+      "group": "Folklore"
+    },
+    {
+      "id": "89-ID",
+      "text": "mage",
+      "coord": [
+        10.19837474822998,
+        -24.23322105407715
+      ],
+      "color": "#8B4513",
+      "group": "Folklore"
+    },
+    {
+      "id": "90-ID",
+      "text": "dragon",
+      "coord": [
+        -6.570481300354004,
+        -28.52935791015625
+      ],
+      "color": "#8B4513",
+      "group": "Folklore"
+    },
+    {
+      "id": "91-ID",
+      "text": "unicorn",
+      "coord": [
+        -4.7146477699279785,
+        -26.094057083129883
+      ],
+      "color": "#8B4513",
+      "group": "Folklore"
+    },
+    {
+      "id": "92-ID",
+      "text": "phoenix",
+      "coord": [
+        -12.262605667114258,
+        -21.410205841064453
+      ],
+      "color": "#8B4513",
+      "group": "Folklore"
+    },
+    {
+      "id": "93-ID",
+      "text": "griffin",
+      "coord": [
+        -3.151902675628662,
+        -33.10842514038086
+      ],
+      "color": "#8B4513",
+      "group": "Folklore"
+    },
+    {
+      "id": "94-ID",
+      "text": "hippogriff",
+      "coord": [
+        -5.125094413757324,
+        -33.16004943847656
+      ],
+      "color": "#8B4513",
+      "group": "Folklore"
+    },
+    {
+      "id": "95-ID",
+      "text": "pegasus",
+      "coord": [
+        -7.817871570587158,
+        -26.212926864624023
+      ],
+      "color": "#8B4513",
+      "group": "Folklore"
+    },
+    {
+      "id": "96-ID",
+      "text": "centaur",
+      "coord": [
+        -9.750187873840332,
+        -26.592937469482422
+      ],
+      "color": "#8B4513",
+      "group": "Folklore"
+    },
+    {
+      "id": "97-ID",
+      "text": "satyr",
+      "coord": [
+        -11.599782943725586,
+        -27.320825576782227
+      ],
+      "color": "#8B4513",
+      "group": "Folklore"
+    },
+    {
+      "id": "98-ID",
+      "text": "faun",
+      "coord": [
+        -26.918596267700195,
+        -26.229843139648438
+      ],
+      "color": "#8B4513",
+      "group": "Folklore"
+    },
+    {
+      "id": "99-ID",
+      "text": "nymph",
+      "coord": [
+        7.57764196395874,
+        -29.64909553527832
+      ],
+      "color": "#8B4513",
+      "group": "Folklore"
+    },
+    {
+      "id": "100-ID",
+      "text": "dryad",
+      "coord": [
+        4.429509162902832,
+        -17.537370681762695
+      ],
+      "color": "#8B4513",
+      "group": "Folklore"
+    },
+    {
+      "id": "101-ID",
+      "text": "zoology",
+      "coord": [
+        -9.262055397033691,
+        -8.082486152648926
+      ],
+      "color": "#140D4F",
+      "group": "Biology"
+    },
+    {
+      "id": "102-ID",
+      "text": "botany",
+      "coord": [
+        -4.666347026824951,
+        5.9727091789245605
+      ],
+      "color": "#140D4F",
+      "group": "Biology"
+    },
+    {
+      "id": "103-ID",
+      "text": "cell",
+      "coord": [
+        -13.7682523727417,
+        8.241930961608887
+      ],
+      "color": "#140D4F",
+      "group": "Biology"
+    },
+    {
+      "id": "104-ID",
+      "text": "mitochondria",
+      "coord": [
+        -9.106847763061523,
+        7.199703216552734
+      ],
+      "color": "#140D4F",
+      "group": "Biology"
+    },
+    {
+      "id": "105-ID",
+      "text": "photosynthesis",
+      "coord": [
+        -7.363965034484863,
+        7.692476272583008
+      ],
+      "color": "#140D4F",
+      "group": "Biology"
+    },
+    {
+      "id": "106-ID",
+      "text": "dna",
+      "coord": [
+        -8.18348217010498,
+        -0.9903860092163086
+      ],
+      "color": "#140D4F",
+      "group": "Biology"
+    },
+    {
+      "id": "107-ID",
+      "text": "enzyme",
+      "coord": [
+        -21.392597198486328,
+        -1.9102576971054077
+      ],
+      "color": "#140D4F",
+      "group": "Biology"
+    },
+    {
+      "id": "108-ID",
+      "text": "genetics",
+      "coord": [
+        -5.8068342208862305,
+        -1.7638497352600098
+      ],
+      "color": "#140D4F",
+      "group": "Biology"
+    },
+    {
+      "id": "109-ID",
+      "text": "evolution",
+      "coord": [
+        -6.810518741607666,
+        -6.150894641876221
+      ],
+      "color": "#140D4F",
+      "group": "Biology"
+    },
+    {
+      "id": "110-ID",
+      "text": "cell membrane",
+      "coord": [
+        -13.56103229522705,
+        6.830987930297852
+      ],
+      "color": "#140D4F",
+      "group": "Biology"
+    },
+    {
+      "id": "111-ID",
+      "text": "nucleus",
+      "coord": [
+        -8.91477108001709,
+        2.1266980171203613
+      ],
+      "color": "#140D4F",
+      "group": "Biology"
+    },
+    {
+      "id": "112-ID",
+      "text": "cytoplasm",
+      "coord": [
+        -11.616525650024414,
+        6.652590274810791
+      ],
+      "color": "#140D4F",
+      "group": "Biology"
+    },
+    {
+      "id": "113-ID",
+      "text": "ribosome",
+      "coord": [
+        -12.155144691467285,
+        3.2217187881469727
+      ],
+      "color": "#140D4F",
+      "group": "Biology"
+    },
+    {
+      "id": "114-ID",
+      "text": "protein",
+      "coord": [
+        -22.413681030273438,
+        -2.846017599105835
+      ],
+      "color": "#140D4F",
+      "group": "Biology"
+    },
+    {
+      "id": "115-ID",
+      "text": "chromosome",
+      "coord": [
+        -6.265916347503662,
+        0.27239832282066345
+      ],
+      "color": "#140D4F",
+      "group": "Biology"
+    },
+    {
+      "id": "116-ID",
+      "text": "gene",
+      "coord": [
+        -6.693562030792236,
+        -2.7767348289489746
+      ],
+      "color": "#140D4F",
+      "group": "Biology"
+    },
+    {
+      "id": "117-ID",
+      "text": "rna",
+      "coord": [
+        -12.796656608581543,
+        1.5482370853424072
+      ],
+      "color": "#140D4F",
+      "group": "Biology"
+    },
+    {
+      "id": "118-ID",
+      "text": "virus",
+      "coord": [
+        -21.406450271606445,
+        13.726075172424316
+      ],
+      "color": "#140D4F",
+      "group": "Biology"
+    },
+    {
+      "id": "119-ID",
+      "text": "bacteria",
+      "coord": [
+        -15.192399978637695,
+        -5.53111457824707
+      ],
+      "color": "#140D4F",
+      "group": "Biology"
+    },
+    {
+      "id": "120-ID",
+      "text": "fungus",
+      "coord": [
+        -14.20954704284668,
+        -9.212607383728027
+      ],
+      "color": "#140D4F",
+      "group": "Biology"
+    },
+    {
+      "id": "121-ID",
+      "text": "algae",
+      "coord": [
+        -5.315134525299072,
+        8.332791328430176
+      ],
+      "color": "#140D4F",
+      "group": "Biology"
+    },
+    {
+      "id": "122-ID",
+      "text": "tissue",
+      "coord": [
+        -19.01380729675293,
+        4.241540431976318
+      ],
+      "color": "#140D4F",
+      "group": "Biology"
+    },
+    {
+      "id": "123-ID",
+      "text": "organ",
+      "coord": [
+        -19.15378189086914,
+        2.5738296508789062
+      ],
+      "color": "#140D4F",
+      "group": "Biology"
+    },
+    {
+      "id": "124-ID",
+      "text": "organism",
+      "coord": [
+        -11.425268173217773,
+        -7.167324542999268
+      ],
+      "color": "#140D4F",
+      "group": "Biology"
+    },
+    {
+      "id": "125-ID",
+      "text": "species",
+      "coord": [
+        -7.871026515960693,
+        -8.832609176635742
+      ],
+      "color": "#140D4F",
+      "group": "Biology"
+    },
+    {
+      "id": "126-ID",
+      "text": "society",
+      "coord": [
+        11.192536354064941,
+        -4.116656303405762
+      ],
+      "color": "#C0392B",
+      "group": "Sociology"
+    },
+    {
+      "id": "127-ID",
+      "text": "culture",
+      "coord": [
+        8.596061706542969,
+        -4.751675128936768
+      ],
+      "color": "#C0392B",
+      "group": "Sociology"
+    },
+    {
+      "id": "128-ID",
+      "text": "community",
+      "coord": [
+        10.784926414489746,
+        -2.323392152786255
+      ],
+      "color": "#C0392B",
+      "group": "Sociology"
+    },
+    {
+      "id": "129-ID",
+      "text": "family",
+      "coord": [
+        12.967193603515625,
+        0.5752788186073303
+      ],
+      "color": "#C0392B",
+      "group": "Sociology"
+    },
+    {
+      "id": "130-ID",
+      "text": "group",
+      "coord": [
+        13.065448760986328,
+        -3.391486883163452
+      ],
+      "color": "#C0392B",
+      "group": "Sociology"
+    },
+    {
+      "id": "131-ID",
+      "text": "organization",
+      "coord": [
+        4.427821636199951,
+        3.383254051208496
+      ],
+      "color": "#C0392B",
+      "group": "Sociology"
+    },
+    {
+      "id": "132-ID",
+      "text": "institution",
+      "coord": [
+        2.612118721008301,
+        2.53776216506958
+      ],
+      "color": "#C0392B",
+      "group": "Sociology"
+    },
+    {
+      "id": "133-ID",
+      "text": "norm",
+      "coord": [
+        38.61803436279297,
+        11.913677215576172
+      ],
+      "color": "#C0392B",
+      "group": "Sociology"
+    },
+    {
+      "id": "134-ID",
+      "text": "value",
+      "coord": [
+        45.3351936340332,
+        2.7671196460723877
+      ],
+      "color": "#C0392B",
+      "group": "Sociology"
+    },
+    {
+      "id": "135-ID",
+      "text": "role",
+      "coord": [
+        6.667510509490967,
+        36.802371978759766
+      ],
+      "color": "#C0392B",
+      "group": "Sociology"
+    },
+    {
+      "id": "136-ID",
+      "text": "status",
+      "coord": [
+        -11.714441299438477,
+        19.758920669555664
+      ],
+      "color": "#C0392B",
+      "group": "Sociology"
+    },
+    {
+      "id": "137-ID",
+      "text": "class",
+      "coord": [
+        15.844253540039062,
+        -4.031188011169434
+      ],
+      "color": "#C0392B",
+      "group": "Sociology"
+    },
+    {
+      "id": "138-ID",
+      "text": "inequality",
+      "coord": [
+        38.46220397949219,
+        10.000452041625977
+      ],
+      "color": "#C0392B",
+      "group": "Sociology"
+    },
+    {
+      "id": "139-ID",
+      "text": "stratification",
+      "coord": [
+        6.83025598526001,
+        3.768165111541748
+      ],
+      "color": "#C0392B",
+      "group": "Sociology"
+    },
+    {
+      "id": "140-ID",
+      "text": "mobility",
+      "coord": [
+        13.983823776245117,
+        -14.17322826385498
+      ],
+      "color": "#C0392B",
+      "group": "Sociology"
+    },
+    {
+      "id": "141-ID",
+      "text": "race",
+      "coord": [
+        -5.1072564125061035,
+        -11.252287864685059
+      ],
+      "color": "#C0392B",
+      "group": "Sociology"
+    },
+    {
+      "id": "142-ID",
+      "text": "ethnicity",
+      "coord": [
+        6.248035430908203,
+        -5.445671558380127
+      ],
+      "color": "#C0392B",
+      "group": "Sociology"
+    },
+    {
+      "id": "143-ID",
+      "text": "gender",
+      "coord": [
+        3.4374330043792725,
+        -6.466741561889648
+      ],
+      "color": "#C0392B",
+      "group": "Sociology"
+    },
+    {
+      "id": "144-ID",
+      "text": "age",
+      "coord": [
+        2.604072332382202,
+        -8.094559669494629
+      ],
+      "color": "#C0392B",
+      "group": "Sociology"
+    },
+    {
+      "id": "145-ID",
+      "text": "religion",
+      "coord": [
+        31.894893646240234,
+        16.709224700927734
+      ],
+      "color": "#C0392B",
+      "group": "Sociology"
+    },
+    {
+      "id": "146-ID",
+      "text": "socialization",
+      "coord": [
+        13.440287590026855,
+        -6.81174898147583
+      ],
+      "color": "#C0392B",
+      "group": "Sociology"
+    },
+    {
+      "id": "147-ID",
+      "text": "interaction",
+      "coord": [
+        14.3131742477417,
+        -8.327911376953125
+      ],
+      "color": "#C0392B",
+      "group": "Sociology"
+    },
+    {
+      "id": "148-ID",
+      "text": "relationship",
+      "coord": [
+        13.924503326416016,
+        1.6655588150024414
+      ],
+      "color": "#C0392B",
+      "group": "Sociology"
+    },
+    {
+      "id": "149-ID",
+      "text": "network",
+      "coord": [
+        -13.269181251525879,
+        -18.766386032104492
+      ],
+      "color": "#C0392B",
+      "group": "Sociology"
+    },
+    {
+      "id": "150-ID",
+      "text": "structure",
+      "coord": [
+        4.541369915008545,
+        5.668315887451172
+      ],
+      "color": "#C0392B",
+      "group": "Sociology"
+    },
+    {
+      "id": "151-ID",
+      "text": "accounting",
+      "coord": [
+        54.63477325439453,
+        -2.57492995262146
+      ],
+      "color": "#27AE60",
+      "group": "Finance"
+    },
+    {
+      "id": "152-ID",
+      "text": "bookkeeping",
+      "coord": [
+        55.59747314453125,
+        -4.096088886260986
+      ],
+      "color": "#27AE60",
+      "group": "Finance"
+    },
+    {
+      "id": "153-ID",
+      "text": "auditing",
+      "coord": [
+        56.18351364135742,
+        -1.827628493309021
+      ],
+      "color": "#27AE60",
+      "group": "Finance"
+    },
+    {
+      "id": "154-ID",
+      "text": "tax",
+      "coord": [
+        49.59782409667969,
+        -1.0987993478775024
+      ],
+      "color": "#27AE60",
+      "group": "Finance"
+    },
+    {
+      "id": "155-ID",
+      "text": "financial statement",
+      "coord": [
+        51.906455993652344,
+        -5.669979572296143
+      ],
+      "color": "#27AE60",
+      "group": "Finance"
+    },
+    {
+      "id": "156-ID",
+      "text": "balance sheet",
+      "coord": [
+        54.199806213378906,
+        -6.582012176513672
+      ],
+      "color": "#27AE60",
+      "group": "Finance"
+    },
+    {
+      "id": "157-ID",
+      "text": "income statement",
+      "coord": [
+        50.537776947021484,
+        -4.6646599769592285
+      ],
+      "color": "#27AE60",
+      "group": "Finance"
+    },
+    {
+      "id": "158-ID",
+      "text": "cash flow statement",
+      "coord": [
+        50.595951080322266,
+        -6.843382835388184
+      ],
+      "color": "#27AE60",
+      "group": "Finance"
+    },
+    {
+      "id": "159-ID",
+      "text": "asset",
+      "coord": [
+        44.81419372558594,
+        7.881835460662842
+      ],
+      "color": "#27AE60",
+      "group": "Finance"
+    },
+    {
+      "id": "160-ID",
+      "text": "liability",
+      "coord": [
+        51.45702362060547,
+        4.248460292816162
+      ],
+      "color": "#27AE60",
+      "group": "Finance"
+    },
+    {
+      "id": "161-ID",
+      "text": "equity",
+      "coord": [
+        43.18156433105469,
+        7.404387474060059
+      ],
+      "color": "#27AE60",
+      "group": "Finance"
+    },
+    {
+      "id": "162-ID",
+      "text": "revenue",
+      "coord": [
+        47.48463439941406,
+        -1.2378791570663452
+      ],
+      "color": "#27AE60",
+      "group": "Finance"
+    },
+    {
+      "id": "163-ID",
+      "text": "expense",
+      "coord": [
+        52.37847900390625,
+        1.5752314329147339
+      ],
+      "color": "#27AE60",
+      "group": "Finance"
+    },
+    {
+      "id": "164-ID",
+      "text": "profit",
+      "coord": [
+        44.99095916748047,
+        -1.0029555559158325
+      ],
+      "color": "#27AE60",
+      "group": "Finance"
+    },
+    {
+      "id": "165-ID",
+      "text": "loss",
+      "coord": [
+        51.149139404296875,
+        7.619770050048828
+      ],
+      "color": "#27AE60",
+      "group": "Finance"
+    },
+    {
+      "id": "166-ID",
+      "text": "margin",
+      "coord": [
+        40.10575485229492,
+        4.926684379577637
+      ],
+      "color": "#27AE60",
+      "group": "Finance"
+    },
+    {
+      "id": "167-ID",
+      "text": "ratio",
+      "coord": [
+        37.33724594116211,
+        5.3250627517700195
+      ],
+      "color": "#27AE60",
+      "group": "Finance"
+    },
+    {
+      "id": "168-ID",
+      "text": "liquidity",
+      "coord": [
+        41.186614990234375,
+        -6.4072489738464355
+      ],
+      "color": "#27AE60",
+      "group": "Finance"
+    },
+    {
+      "id": "169-ID",
+      "text": "solvency",
+      "coord": [
+        41.89794921875,
+        -4.922707557678223
+      ],
+      "color": "#27AE60",
+      "group": "Finance"
+    },
+    {
+      "id": "170-ID",
+      "text": "profitability",
+      "coord": [
+        44.23277282714844,
+        -2.241525888442993
+      ],
+      "color": "#27AE60",
+      "group": "Finance"
+    },
+    {
+      "id": "171-ID",
+      "text": "efficiency",
+      "coord": [
+        44.82575225830078,
+        -5.330756187438965
+      ],
+      "color": "#27AE60",
+      "group": "Finance"
+    },
+    {
+      "id": "172-ID",
+      "text": "leverage",
+      "coord": [
+        42.281185150146484,
+        5.286126613616943
+      ],
+      "color": "#27AE60",
+      "group": "Finance"
+    },
+    {
+      "id": "173-ID",
+      "text": "valuation",
+      "coord": [
+        45.523460388183594,
+        3.9648830890655518
+      ],
+      "color": "#27AE60",
+      "group": "Finance"
+    },
+    {
+      "id": "174-ID",
+      "text": "forecasting",
+      "coord": [
+        33.76487731933594,
+        -2.471359968185425
+      ],
+      "color": "#27AE60",
+      "group": "Finance"
+    },
+    {
+      "id": "175-ID",
+      "text": "budgeting",
+      "coord": [
+        53.7724723815918,
+        0.8464577198028564
+      ],
+      "color": "#27AE60",
+      "group": "Finance"
+    },
+    {
+      "id": "176-ID",
+      "text": "doctor",
+      "coord": [
+        -26.845195770263672,
+        27.65850067138672
+      ],
+      "color": "#2ECC71",
+      "group": "Medicine"
+    },
+    {
+      "id": "177-ID",
+      "text": "nurse",
+      "coord": [
+        -29.981822967529297,
+        25.996259689331055
+      ],
+      "color": "#2ECC71",
+      "group": "Medicine"
+    },
+    {
+      "id": "178-ID",
+      "text": "hospital",
+      "coord": [
+        -28.104616165161133,
+        24.770822525024414
+      ],
+      "color": "#2ECC71",
+      "group": "Medicine"
+    },
+    {
+      "id": "179-ID",
+      "text": "clinic",
+      "coord": [
+        -26.302114486694336,
+        25.696002960205078
+      ],
+      "color": "#2ECC71",
+      "group": "Medicine"
+    },
+    {
+      "id": "180-ID",
+      "text": "patient",
+      "coord": [
+        -28.730167388916016,
+        28.311012268066406
+      ],
+      "color": "#2ECC71",
+      "group": "Medicine"
+    },
+    {
+      "id": "181-ID",
+      "text": "treatment",
+      "coord": [
+        -22.8531551361084,
+        27.914794921875
+      ],
+      "color": "#2ECC71",
+      "group": "Medicine"
+    },
+    {
+      "id": "182-ID",
+      "text": "therapy",
+      "coord": [
+        -21.42551040649414,
+        27.587961196899414
+      ],
+      "color": "#2ECC71",
+      "group": "Medicine"
+    },
+    {
+      "id": "183-ID",
+      "text": "surgery",
+      "coord": [
+        -27.37830352783203,
+        21.90083122253418
+      ],
+      "color": "#2ECC71",
+      "group": "Medicine"
+    },
+    {
+      "id": "184-ID",
+      "text": "medication",
+      "coord": [
+        -24.47830581665039,
+        30.9802303314209
+      ],
+      "color": "#2ECC71",
+      "group": "Medicine"
+    },
+    {
+      "id": "185-ID",
+      "text": "prescription",
+      "coord": [
+        -25.83428382873535,
+        30.716384887695312
+      ],
+      "color": "#2ECC71",
+      "group": "Medicine"
+    },
+    {
+      "id": "186-ID",
+      "text": "diagnosis",
+      "coord": [
+        -16.26410484313965,
+        20.60919952392578
+      ],
+      "color": "#2ECC71",
+      "group": "Medicine"
+    },
+    {
+      "id": "187-ID",
+      "text": "prognosis",
+      "coord": [
+        33.733482360839844,
+        -3.776801347732544
+      ],
+      "color": "#2ECC71",
+      "group": "Medicine"
+    },
+    {
+      "id": "188-ID",
+      "text": "symptom",
+      "coord": [
+        -15.846475601196289,
+        23.169851303100586
+      ],
+      "color": "#2ECC71",
+      "group": "Medicine"
+    },
+    {
+      "id": "189-ID",
+      "text": "disease",
+      "coord": [
+        -18.645484924316406,
+        19.655628204345703
+      ],
+      "color": "#2ECC71",
+      "group": "Medicine"
+    },
+    {
+      "id": "190-ID",
+      "text": "illness",
+      "coord": [
+        -19.15357208251953,
+        20.991764068603516
+      ],
+      "color": "#2ECC71",
+      "group": "Medicine"
+    },
+    {
+      "id": "191-ID",
+      "text": "condition",
+      "coord": [
+        -13.418678283691406,
+        20.04169273376465
+      ],
+      "color": "#2ECC71",
+      "group": "Medicine"
+    },
+    {
+      "id": "192-ID",
+      "text": "disorder",
+      "coord": [
+        -19.042482376098633,
+        23.296833038330078
+      ],
+      "color": "#2ECC71",
+      "group": "Medicine"
+    },
+    {
+      "id": "193-ID",
+      "text": "injury",
+      "coord": [
+        -26.49498176574707,
+        18.930233001708984
+      ],
+      "color": "#2ECC71",
+      "group": "Medicine"
+    },
+    {
+      "id": "194-ID",
+      "text": "wound",
+      "coord": [
+        -26.891368865966797,
+        17.653932571411133
+      ],
+      "color": "#2ECC71",
+      "group": "Medicine"
+    },
+    {
+      "id": "195-ID",
+      "text": "infection",
+      "coord": [
+        -21.10450553894043,
+        16.61930274963379
+      ],
+      "color": "#2ECC71",
+      "group": "Medicine"
+    },
+    {
+      "id": "196-ID",
+      "text": "virus",
+      "coord": [
+        -21.406450271606445,
+        13.726075172424316
+      ],
+      "color": "#2ECC71",
+      "group": "Medicine"
+    },
+    {
+      "id": "197-ID",
+      "text": "bacteria",
+      "coord": [
+        -14.133946418762207,
+        -4.948174953460693
+      ],
+      "color": "#2ECC71",
+      "group": "Medicine"
+    },
+    {
+      "id": "198-ID",
+      "text": "vaccine",
+      "coord": [
+        -29.291837692260742,
+        10.860610008239746
+      ],
+      "color": "#2ECC71",
+      "group": "Medicine"
+    },
+    {
+      "id": "199-ID",
+      "text": "immunization",
+      "coord": [
+        -28.119001388549805,
+        10.296302795410156
+      ],
+      "color": "#2ECC71",
+      "group": "Medicine"
+    },
+    {
+      "id": "200-ID",
+      "text": "prevention",
+      "coord": [
+        -29.963642120361328,
+        8.411161422729492
+      ],
+      "color": "#2ECC71",
+      "group": "Medicine"
+    }
+  ]
+}
